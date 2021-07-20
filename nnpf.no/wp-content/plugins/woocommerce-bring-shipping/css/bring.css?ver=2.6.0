@@ -1,0 +1,80 @@
+/* Add bring Css Code here */
+/* .woocommerce ul#shipping_method li input {
+    width: 0 !important;
+	margin: 5px 0px 0 2px !important;
+}  */
+
+
+#shipping_method a.bringtooltip span{
+z-index: 10;
+display: none;
+border-radius:4px;
+-moz-border-radius: 4px;
+-webkit-border-radius: 4px;
+}
+
+#shipping_method a.bringtooltip:hover span{
+display: inline;
+position: absolute;
+border: 1px solid #8c8c8c;
+background: #f4f4f4;
+}
+
+
+#shipping_method a.bringtooltip > span{
+width: 200px;
+padding: 10px 12px;
+opacity: 0;
+visibility: hidden;
+z-index: 10;
+position: absolute;
+font-size: 12px;
+font-style: normal;
+-webkit-border-radius: 3px;
+-moz-border-radius: 3px; -o-border-radius: 3px;
+border-radius: 3px;
+-webkit-box-shadow: 4px 4px 4px #d9b3c3;
+-moz-box-shadow: 4px 4px 4px #d9b3c3;
+box-shadow: 4px 4px 4px #d9b3c3;
+color: #000000;
+background: #f4f4f4;
+background: -moz-linear-gradient(top, #FBF5E6 0%, #FFFFFF 100%);
+background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,#FBF5E6), color-stop(100%,#FFFFFF));
+filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#FBF5E6', endColorstr='#FFFFFF',GradientType=0 );
+border: 1px solid #8c8c8c;
+}
+
+
+#shipping_method a.bringtooltip:hover > span{
+opacity: 1;
+text-decoration:none;
+visibility: visible;
+overflow: visible;
+margin-top: 35px;
+display: inline;
+margin-left: -50px;
+}
+
+#shipping_method a.bringtooltip span b{
+width: 15px;
+height: 15px;
+margin-left: 20px;
+margin-top: -19px;
+display: block;
+position: absolute;
+-webkit-transform: rotate(-45deg);
+-moz-transform: rotate(-45deg);
+-o-transform: rotate(-45deg);
+transform: rotate(-45deg);
+-webkit-box-shadow: inset -1px 1px 0 #fff;
+-moz-box-shadow: inset 0 1px 0 #fff; -o-box-shadow: inset 0 1px 0 #fff;
+box-shadow: inset 0 1px 0 #fff;
+display: none\0/; *display: none;
+background: #f4f4f4;
+border-top: 1px solid #8c8c8c;
+border-right: 1px solid #8c8c8c;
+}
+
+#shipping_method a.bringtooltip img{
+margin-left: 10px;
+}

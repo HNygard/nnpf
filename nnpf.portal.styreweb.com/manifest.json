@@ -1,0 +1,30 @@
+﻿{
+  "manifest_version": 1,
+  "lang": "no",
+  "default_locale": "nb_NO",  
+  "name": "StyreWeb",
+  "short_name": "StyreWeb",
+  "description": "StyreWeb - enklere organisasjonsdrift fra første dag",
+  "icons": [
+    {
+      "src": "icon/logo64.webp",
+      "sizes": "64x64",
+      "type": "image/webp"
+    },
+    {
+      "src": "icon/logo64.png",
+      "sizes": "64x64"
+    },
+    {
+      "src": "icon/logo128.png",
+      "sizes": "128x128",
+      "density": 2
+    }
+  ],
+  "author": "StyreWeb",
+  "scope": "/",
+  "start_url": "/default.aspx",
+  "display": "standalone",
+  "orientation": "landscape",
+  "theme_color": "#1e5078"
+}

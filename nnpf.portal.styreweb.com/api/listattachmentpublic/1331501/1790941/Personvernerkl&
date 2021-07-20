@@ -1,0 +1,161 @@
+
+<!doctype html>
+<html lang="no">
+<head><meta charset="utf-8" /><meta http-equiv="X-UA-Compatible" content="IE=edge" /><title>
+	StyreWeb - for lag og foreninger
+</title><meta name="viewport" content="width=device-width, initial-scale=1.0" /><link href="favicon.ico" rel="shortcut icon" type="image/x-icon" /><meta name="x-frame-options" content="SAMEORIGIN" /><meta name="Strict-Transport-Security" content="max-age=3600;includeSubdomains" /><meta name="X-Xss-Protection" content="1; mode=block" /><meta name="X-Content-Type-Options" content="nosniff" /><link rel="manifest" href="/manifest.json" />    
+    <!-- Fallback application metadata for legacy browsers -->    
+    <link rel="icon" sizes="16x16 32x32 48x48" href="/icon/logo_lo_def.ico" /><link rel="icon" sizes="512x512" href="/icon/logo512.png" /><meta name="apple-mobile-web-app-capable" content="yes" /><meta name="apple-mobile-web-app-status-bar-style" content="black" /><link rel="apple-touch-icon" sizes="114x114" href="/icon/logo114.png" /><link rel="apple-touch-icon" sizes="180x180" href="/icon/logo180_180.png" /><meta name="application-name" content="StyreWeb" /><meta name="msapplication-tooltip" content="StyreWeb - Enklere foreningsdrift" /><link href="/Content/bootstrap?v=7GsBEsX3kN0WQF8Jw_4hLTIgatCX-wR5fX529E1yt-k1" rel="stylesheet"/>
+</head>
+<body>
+    <form method="post" action="./?error=dangerous" id="formDefault">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="EvUt1g/KD49hwojKSRQuSlWvhP+yzX4+ZPlL09Oc6ydaD0SEjLftPv5bsDLryrIv5KmEl93Pakqr+gSzgo1bgNQEC4SSsoUxR6aGspNrh1oBZyckXtxamhwcMEuDOpQJ3rv6oDl/hszTltKifV4BC+5C6ov6bRQlG/YNqeypG+idxNOdJioY9hBNKeBIvIWVdVtsFq9hPzNkKT+CsWbP5UU9dctd1flcpcLUgVTYdBkYDPb2Hqar0mgU/FBEGjJREhNfGGHn4AKEI2W1sghiRn/fL+JRhk6JtVeumfqekqlgXdt7+Sl3UUh51OMGClrrDTB1QB/8y5FtndTSWEIUxl/KCCE8vl631JT2eIT51S7w/I3mdDqmuNpg201guyy6OXbWbadX87Z1sizujOiGEA1YiRyH9npkAkX5njfZ/pbDzwhaIyQhsXaJzELMVlzsyzLf87m215SBh1P0RS6OTUw5mGWLwrRF1bSiAssYBcMa2kG5OatZePthhwMIq+CSPLaKTD4LAl3Dx6aWYvsdkhSWoP/e/HLQ0HVNkKxYW7p+vXa6NQA/FERjkeqNQlpHbKQIvfl0Y/b+sNfLtGEbqa9H9qZaAVxuvSTSyN3Pi476rWBWlmcdZj6rWqe1adYrLZFQtLVERj93GYsD99xfVF3JMOkm5SAowI0C4pMrKiOf2aO7xnR/B/wQNZddNkVTo/M0TtydBBExxcSeSzVfCPUkZzJ4BKCpMYGDIS9yp0fMJD0eZvMAD5KAy//37UHP8j3TMh8km8CCiF2LHyKf276GsV1l9lMrJygKv/lHJ6X6ZLvvqEWgxYLqw2WaJLHY3yCgOu3TvQxbPTaFtQ0Itl3YFO2w2/pkc05HF5cZTRvQkg4VqWVvMikVcCD4uBZPjL0LjB5TvFUn8Xq+VvjK9GxjCLGd1MOSrZl14/e6gPg=" />
+
+
+<script src="/Scripts/jquery-3.1.1.min.js" type="text/javascript"></script>
+<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="1B7A151F" />
+<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="eLI481HqeOJIqn/9TVe6wXfRI+nstxqM5uWTEHHRcOlXW2qBvUyrzf0PRTb0MxlY2siB733GAQtJ7LmTI31ncNFgAQcYlMAmQQ6wG3TIC0eoBTTto/6d32i+XQVJ3tfGtkPeC2drZtHjgPrXrQVGmfIp+nTWlOPzZs56HguCVBHl946gsbWyjCkmojMcmN9Q6EJrb0fjHNEn/pgDAZyQvA==" />
+        <div style="width: 100vw; max-width: 1024px; margin-left: auto; margin-right: auto;">
+        <table width="100%" border="0">
+            <tr style="height: 77px">
+                <td style="width: 150px; height: 70px">
+                    <a href="https://www.styreweb.com/">
+                    <img src="https://static.styreweb.com/portal/Images/StyreWebLogo160_59.png" width="160px" alt="Logo" />
+                        </a>
+                </td>
+                <td style="height: 70px">
+                    <table width="100%" border="0">
+                        <tr>
+                            <td colspan="2" align="right">
+                                
+                            </td>
+                        </tr>
+                        <tr align="left">
+                            <td>
+                            </td>
+                            <td align="right">
+                                
+                            </td>
+                        </tr>
+                        <tr>
+                            <td colspan="2" align="right">
+                                &nbsp;  &nbsp;
+                                    
+                            </td>
+                        </tr>
+                    </table>
+                </td>
+            </tr>
+            </table>
+            <table width="100%" border="0">
+                <tr valign="top">
+                    <td>
+                        <div style="background-color: #eeeeee; width: 270px;margin-left:auto;margin-right:auto;height:100%">
+                        
+    <div id="sidebar">
+       
+
+<section id="loginForm" >
+    <div class="form-horizontal">
+	
+        
+        <div class="control-group">
+            <label for="leftSidebar_Login2_txtUserName" class="col-md-12">Brukernavn:</label>
+            <div class="col-md-12">
+                <input name="ctl00$leftSidebar$Login2$txtUserName" type="text" id="leftSidebar_Login2_txtUserName" class="form-control" />
+                &nbsp;
+            </div>
+        </div>
+        <div class="control-group">
+            <label for="leftSidebar_Login2_txtPassword" class="col-md-12">Passord:</label>
+            <div class="col-md-12">
+                <input name="ctl00$leftSidebar$Login2$txtPassword" type="password" id="leftSidebar_Login2_txtPassword" class="form-control" />
+                &nbsp;
+            </div>
+        </div>
+        <div class="form-group">
+            <div class="col-md-offset-2 col-md-10">
+                <div class="checkbox">
+                    <input id="leftSidebar_Login2_chkRememberMe" type="checkbox" name="ctl00$leftSidebar$Login2$chkRememberMe" />
+                    <label for="leftSidebar_Login2_chkRememberMe">Husk meg?</label>
+                </div>
+            </div>
+        </div>
+        <div class="form-group">
+            <div class="col-md-offset-2 col-md-10">
+                <button type="button" name="ctl00$leftSidebar$Login2$btnLogin" value="Logg inn" onclick="javascript:WebForm_DoPostBackWithOptions(new WebForm_PostBackOptions(&quot;ctl00$leftSidebar$Login2$btnLogin&quot;, &quot;&quot;, true, &quot;&quot;, &quot;&quot;, false, true))" id="leftSidebar_Login2_btnLogin" class="button buttoniconcaption">Logg inn</button>
+        </div>
+    </div>   
+    
+</div>
+</section>
+
+        <hr />
+        <h4>Hjelp</h4>
+        .:
+        <a id="leftSidebar_linkResetPassword" href="account/forgot.aspx">Glemt passord</a>
+        <br />
+        <br />
+        .: <a href="mailto:kontakt@styreweb.com">Kontakt</a>
+    </div>
+
+                        </div>
+                    </td>
+                    <td>
+                    <span id="lblMessage"></span>
+                    
+    <div class="shim column">
+    </div>
+    <div class="page" id="home">
+        <table>
+            <tr valign="top">
+                <td>
+        <div id="content">
+                        <h3>Driftsstatus</h3>
+            <table border="0" width="100%">
+                <tr valign="top">
+                    <td>
+                        <br />
+                                    <!--<span style="color: #FF0000">Tekniske problemer for øyeblikket.</span><br />Mange av våre kunder opplever for øyeblikket problemer med pålogging. <br />Vi jobber med saken, og beklager ulempen dette medfører for deg. /-->
+                        StyreWeb kjører som normalt
+                    </td>
+                </tr>
+            </table>
+            <hr />
+                        <h3>Ikke registrert som bruker?</h3>
+                        <p style="white-space: normal;">
+                            Dersom du ikke har mottat e-post med brukernavn og passord, må du kontakte lokal administrator i din forening for registrering.
+                        </p>
+        </div>
+                </td>
+                <td>
+                    <div style="height: 350px;">
+                        <iframe src="https://www.facebook.com/connect/connect.php?id=140151662696152&connections=8&stream=0" frameborder="0" scrolling="no"
+                            style="width: 240px; height: 240px; border-top-color: currentColor; border-right-color: currentColor; border-bottom-color: currentColor; border-left-color: currentColor; border-top-width: medium; border-right-width: medium;
+                            border-bottom-width: medium; border-left-width: medium; border-top-style: none; border-right-style: none; border-bottom-style: none; border-left-style: none;"
+                            allowtransparency="true">
+                        </iframe>
+                    </div>
+                </td>
+            </tr>
+        </table>
+    </div>
+    <input type="hidden" name="ctl00$Main$hiddenUTCDate" id="hiddenUTCDate" />
+     <script  type="text/javascript" >
+        var Today = new Date();
+        var ctrl = document.getElementById("hiddenUTCDate");
+        ctrl.value = Today.toUTCString();
+    </script>
+
+                </td>
+            </tr>
+            <tr>
+                <td colspan="2" align="center">
+                        Copyright &copy; 2005-2021 StyreWeb.com.
+                </td>
+            </tr>
+        </table>
+        </div>
+    </form>
+</body>
+</html>

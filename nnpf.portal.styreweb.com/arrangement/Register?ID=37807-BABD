@@ -1,0 +1,501 @@
+
+<!DOCTYPE html>
+<html lang="no">
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">    
+    <title>StyreWeb - Innmelding</title>
+    <link href="/arrangement/arrangement.css" rel="stylesheet" />
+    <link href="/favicon.ico" rel="shortcut icon" type="image/x-icon" />
+
+
+    
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no, shrink-to-fit=no" />
+    <link type="text/css" rel="Stylesheet" href="//ajax.aspnetcdn.com/ajax/jquery.ui/1.10.2/themes/redmond/jquery-ui.css" />
+    <style type="text/css">
+        .ui-menu-item {
+            width: 150px;
+        }
+    </style>
+
+</head>
+<body class="">
+    <div class="bodycontainer">
+    <div class="content">
+        <div class="container">
+        <div id="header">
+                <h1 class="site-title"></h1>
+        </div>
+        <div id="menu">
+        </div>
+        <div id="main">
+            <div id="content">
+<!-- 7303-8672-7951 -->
+<div class="register-container">
+            <div class="register-description">
+            <p>Som støttemedlem vil du motta fagbladet vårt Motgift fire ganger i året.&nbsp;</p><p>Kontingenten på 300.- per år vil bli fakturert årlig</p>
+        </div>
+    <div>
+        <form id="frm" method="post">
+            <input id="MemberPk" name="MemberPk" type="hidden" value="0" />
+            <!--Registrerings skjema-->
+            <div class="DetailsView-Data">
+                                        
+                <div class="DetailsView-Header">
+                    Medlem
+                </div>
+                <div class="swDetailsView">
+                    <div class="swDetailsViewGroupRow">
+                        <div class="swDetailsViewColumn">
+                            <div class="swDetailsViewField required">
+                                <div class="DetailsView-HeaderField">
+                                    <label for="txtPersonFirstName">Fornavn</label>
+                                </div>
+                                <div class="DetailsView-DataField">
+                                    <input Class="DetailViewEditCell" VCARD_NAME="vCard.FirstName" id="txtPersonFirstName" name="txtPersonFirstName" required="required" type="text" value="" />
+                                    <span Class="field-validation-error star-error" class="field-validation-valid" data-valmsg-for="PersonFirstName" data-valmsg-replace="true"></span>
+                                </div>
+                            </div>
+                            <div class="swDetailsViewField required">
+                                <div class="DetailsView-HeaderField">
+                                    <label for="txtPersonLastName">Etternavn</label>
+                                </div>
+                                <div class="DetailsView-DataField">
+                                    <input Class="DetailViewEditCell" VCARD_NAME="vCard.LastName" id="txtPersonLastName" name="txtPersonLastName" required="required" type="text" value="" />
+                                    <span Class="field-validation-error star-error" class="field-validation-valid" data-valmsg-for="PersonLastName" data-valmsg-replace="true"></span>
+                                </div>
+                            </div>
+                            <div class="swDetailsViewField  required">
+                                <div class="DetailsView-HeaderField">
+                                    <label for="txtStreetAddress1">Gate 1</label>
+                                </div>
+                                <div class="DetailsView-DataField">
+                                    <input Class="DetailViewEditCell" VCARD_NAME="vCard.Home.StreetAddress" id="txtStreetAddress1" name="txtStreetAddress1" required="required" type="text" value="" />
+                                    <span Class="field-validation-error star-error" class="field-validation-valid" data-valmsg-for="StreetAddress1" data-valmsg-replace="true"></span>
+                                </div>
+                            </div>
+                            <div class="swDetailsViewField  required">
+                                <div class="DetailsView-HeaderField">
+                                    <label for="txtPostalCode">Poststed</label>
+                                </div>
+                                <div class="DetailsView-DataField">
+                                    <input Class="DetailViewEditCell" VCARD_NAME="vCard.ZipCode" id="txtPostalCode" maxlength="10" name="txtPostalCode" required="required" size="4" style="width: 50px" type="text" value="" />
+                                <input Class="DetailViewEditCell" VCARD_NAME="vCard.City" id="txtPostalName" maxlength="30" name="txtPostalName" required="required" size="15" style="width:calc(100% - 60px);margin-left: 5px;" type="text" value="" />
+                                    <span Class="field-validation-error star-error" class="field-validation-valid" data-valmsg-for="txtPostalCode" data-valmsg-replace="true"></span>
+                                </div>
+                            </div>
+                            <div class="swDetailsViewField  required">
+                                <div class="DetailsView-HeaderField">
+                                    <label for="txtCountry">Land</label>
+                                </div>
+                                <div class="DetailsView-DataField">
+                                    <input Class="DetailViewEditCell" VCARD_NAME="vCard.Home.Country" id="txtCountry" name="txtCountry" required="required" type="text" value="" />
+                                    <span Class="field-validation-error star-error" class="field-validation-valid" data-valmsg-for="txtCountry" data-valmsg-replace="true"></span>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="swDetailsViewColumn">
+                        <div class="swDetailsViewField  required">
+                                <div class="DetailsView-HeaderField">
+                                    <label for="txtBirthDate">F&#248;dt</label>
+                                </div>
+                                <div class="DetailsView-DataField">
+                                    <input Class="DetailViewEditCell" id="txtBirthDate" name="txtBirthDate" required="required" type="text" value="" />
+                                    <span Class="field-validation-error star-error" class="field-validation-valid" data-valmsg-for="BirthDate" data-valmsg-replace="true"></span>
+                                </div>
+                            </div>
+                            <div id="fieldMobilePhone" class="swDetailsViewField  required">
+                                <div class="DetailsView-HeaderField">
+                                    <label for="txtMobilePhone">Mobil</label>
+                                </div>
+                                <div class="DetailsView-DataField">
+                                    <input Class="DetailViewEditCell" VCARD_NAME="vCard.Cellular" id="txtMobilePhone" name="txtMobilePhone" required="required" type="tel" value="" />
+                                    <span Class="field-validation-error star-error" class="field-validation-valid" data-valmsg-for="MobilePhone" data-valmsg-replace="true"></span>
+                                </div>
+                            </div>
+                            <div id="fieldEmailAddress1" class="swDetailsViewField">
+                                <div id="tdEmailAddress1" class="DetailsView-HeaderField">
+                                    <label for="txtEmailAddress1">e-post</label>
+                                </div>
+                                <div class="DetailsView-DataField">
+                                    <input Class="DetailViewEditCell" VCARD_NAME="vCard.Email" id="txtEmailAddress1" name="txtEmailAddress1" type="email" value="" />
+                                    <span Class="field-validation-error star-error" class="field-validation-valid" data-valmsg-for="EmailAddress1" data-valmsg-replace="true"></span>
+                                </div>
+                            </div>
+                            <div class="swDetailsViewField  required">
+                                <div class="DetailsView-HeaderField">
+                                    <label for="cboGender">Kj&#248;nn</label>
+                                </div>
+                                <div class="DetailsView-DataField">
+                                    <select name="cboGender" required=" required" class="DetailViewEditCell ">
+                                        <option value=""></option>
+                                        <option value="G"  )>Mann</option>
+                                        <option value="J" >Kvinne</option>
+                                    </select>
+                                </div>
+                            </div>
+                            <div class="swDetailsViewField">
+                                    <div class="DetailsView-HeaderField"></div>
+                                    <div class="DetailsView-DataField"></div>
+                            </div>
+                        </div>
+                    </div>
+                    
+
+                        <div class="swDetailsViewGroupRow">
+                            <div class="swDetailsViewColumn">
+                                    <div class="swDetailsViewGroupTitle">
+                                        
+                                    </div>
+                                    <div class="swDetailsViewGroupRowContent">
+                                            <div class="swDetailsViewColumn swDetailsViewColumnWrap">
+<div class="swDetailsViewField  required swDetailsViewFieldEnhanced" data-qid="13415" style="width: 100%;"><div class="DetailsView-HeaderField" ><label for="ctrl13415">Hvem vervet deg?</label></div><div class="DetailsView-DataField" ><td colspan="3" class="DetailsView-DataFieldWide"><div><div class="SurveyQuestionDescription" ><span>Vi har jevnlig vervekampanjer. Om ingen vervet deg, skriv "Ingen". Skriv ellers fullt navn på verver.</span></div><input type="text" name="ctrl13415" class="DetailViewEditCell " value="" /></div></td></div></div>                                            </div>
+                            </div>
+                                    <div class="swDetailsViewGroupRowContent">
+                                            <div class="swDetailsViewColumn swDetailsViewColumnWrap">
+<div class="swDetailsViewField  required swDetailsViewFieldEnhanced" data-qid="13416" style="width: 100%;"><div class="DetailsView-HeaderField" ><label for="ctrl13416">Epost - Privat</label></div><div class="DetailsView-DataField" ><td colspan="3" class="DetailsView-DataFieldWide"><input type="text" name="ctrl13416" class="DetailViewEditCell " value="" /></td></div></div>                                            </div>
+                            </div>
+                        </div>
+                            </div>
+
+                        <div class="swDetailsViewGroupRow">
+                            <div class="swDetailsViewColumn">
+                                <div class="swDetailsViewGroupTitle">
+                                    Personvernerklæring
+                                </div>
+                                <div class="swDetailsViewGroupRowContent">
+                                    <div class="swDetailsViewColumn" style="border-bottom: solid 1px silver;">
+                                            <div>
+                                                <span style="padding: 10px;">Personvernerkl&#230;ring</span>
+                                            <a href="/api/listattachmentpublic/1331501/1790941/Personvernerkl&#230;ring.pdf" style="padding: 10px;"><img src="https://static.styreweb.com/portal/Images/appbar.magnify.png" style="width: 25px;" />Les</a>
+                                            </div>                                    
+                                                                                    <div style="padding: 10px; font-style: italic;"><label><input type="checkbox" id="chkAxeptConsentAgreement" name="chkAxeptConsentAgreement" /> Kryss av for at du har lest og aksepterer betingelsene</label></div>
+                                    </div>                                        
+                                </div>
+                            </div>
+                        </div>
+
+                    <div class="swDetailsViewGroupRow">
+                        <div class="swDetailsViewCommandRow">
+                                    <input type="submit" value="Lagre innmelding" class="DetailsView-CommandFieldButton"  />
+                        </div>
+                    </div>
+                </div>               
+                <div>
+                    <i>Felt merket med r&#248;d strek er obligatorisk og m&#229; fylles ut.</i>
+                </div>
+                </div>
+        </form>
+    </div>
+</div>
+
+<script>
+    function dependentQuestionOptionChanged(event, questionPk) {
+        var optionId = event.target.value;
+        var checked = event.target.checked;
+        //Show any thing that is dependent on this item
+        dependentQuestionToggleHiddenClass("dependson", optionId, true);
+        //for all other options we hide them
+        var parent = event.target.parentElement;
+        while (parent.nodeName != "UL") {
+            parent = parent.parentElement;
+        }
+        //var parent = event.target.parentElement.parentElement;//input is in a li which is in a ul....we want the ul
+
+        var dependencytriggers = parent.getElementsByClassName("dependencytrigger");
+        for (var i = 0; i < dependencytriggers.length; i++) {
+            if (dependencytriggers[i].value != optionId) {
+                dependentQuestionToggleHiddenClass("dependson", dependencytriggers[i].value, false);
+            }
+        }
+    }
+
+    function dependentQuestionSelectedChanged(event, questionPk) {        
+        var cbo = event.target;
+        var selectedIndex = cbo.selectedIndex;
+        var selectedItem = cbo[selectedIndex];
+        var selectedValue = selectedItem.value;
+
+        //var questionId = cbo.a
+
+        console.log("dependentQuestionSelectedChanged " + questionPk + ", " + selectedIndex + ", " + selectedValue, event);
+
+        //Hide all question that dependends on this question
+        dependentQuestionToggleHiddenClass("dependsonq", questionPk, false);
+
+        //Show any thing that is dependent on the selected option
+        dependentQuestionToggleHiddenClass("dependson", selectedValue, true);
+    }
+
+    function dependentQuestionCheckedChanged(event, questionPk) {
+        var optionId = event.target.value;
+        var checked = event.target.checked;
+        //Show any thing that is dependent on this item
+        dependentQuestionToggleHiddenClass("dependson", optionId, checked);
+    }
+
+    function dependentQuestionToggleHiddenClass(classNamePrefix, optionId, isSelected) {
+        var dependentClassName = classNamePrefix + optionId;
+        var elements = document.getElementsByClassName(dependentClassName);
+
+        if (elements) {
+            if (isSelected) {
+                for (var i = 0; i < elements.length; i++) {
+                    elements[i].classList.remove("hidden");
+                }
+            }
+            else {
+                for (var i = 0; i < elements.length; i++) {
+                    elements[i].classList.add("hidden");
+                }
+            }
+        }
+    }
+
+    function showFamilyMember(sender, Sequence) {
+        console.log("showFamilyMember " + Sequence);
+
+        sender.classList.add('hidden');
+
+        var el = document.getElementById('pnlFamilyMember' + Sequence);
+        if (el != null) {
+            el.classList.remove("hidden");
+        }
+
+        var elbtn = document.getElementById('pnlFamilyMemberAddNext' + Sequence - 1);
+        if (elbtn != null) {
+            elbtn.classList.remove("hidden");
+        }
+
+        
+        return false;
+    }
+
+</script>
+
+
+
+
+</div>
+        </div>
+        </div>
+    </div>
+            <footer class="footer">
+        <div class="center">
+                    &copy; 2005-2021 <a href="https://www.styreweb.com" target="_blank">StyreWeb.com</a>
+        </div>
+        <div class="center">Leverandør av systemløsninger for lag og foreninger</div>
+		</footer>
+    </div>
+	<script src="//ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js" type="text/javascript"></script>
+    
+    
+    <script type="text/javascript" src="//ajax.aspnetcdn.com/ajax/jquery.ui/1.12.1/jquery-ui.min.js"></script>
+    <script type="text/javascript" src="//ajax.googleapis.com/ajax/libs/jqueryui/1.8.1/i18n/jquery.ui.datepicker-no.min.js"></script>
+    
+    <script type="text/javascript">
+        $(document).ready(function () {
+            var isIframe = false;
+            try {
+                if (window.top.location.href != window.location.href) {
+                    isIframe = true;
+                }
+            }
+            catch (err)
+            {
+                isIframe = true;
+            }
+
+            //Detect if we are in an iframe and on a mobile safari...break out as it does not allow us to use cookies inside of an iframe
+            if((navigator.userAgent.match(/iPhone/i)) || (navigator.userAgent.match(/iPod/i)) || (navigator.userAgent.match(/android/i)) || window.location.search.indexOf("breakout") > -1) 
+            {
+                if (isIframe)
+                {
+                    if (!window.navigator.cookieEnabled) 
+                    {
+                    window.top.location.href = window.location.href + "&cookienotenabled";
+                    return;
+                }
+                    else 
+                    {
+                    window.top.location.href = window.location.href + "&iphoneiframe";
+                    return;
+                }                
+            }            
+            }            
+
+            //Add an iframe tag to our body so we can style it properly
+            if (isIframe) {
+                $(document.body).addClass("iframe");
+            }
+
+            $("#txtBirthDate").datepicker({
+                dateFormat: "dd.mm.yy",
+                changeMonth: true,
+                changeYear: true,
+                yearRange: '1911:2021',
+                minDate: new Date(1911, 6, 20),
+                maxDate: new Date(2021, 6, 20),
+                regional: 'no'
+            });
+
+            $("#txtPostalCode").autocomplete({
+                source: function (request, response) {
+                    $.ajax({
+                        url: "lookuppostalcodes", type: "GET", dataType: "json",
+
+                        data: { searchText: request.term, maxResults: 15 },
+                        success: function (data) {
+                            response($.map(data, function (item) {
+                                return { label: item.Description, value: item.PostalNumber, id: item.PostalName }
+                            }))
+                        },
+                        error: function (XMLHttpRequest, textStatus, errorThrown) {
+                            alert(textStatus);
+                        }
+                    })
+                },
+                select: function (event, ui) {
+                    if (event.target.value == ui.item.value) {
+                        $("#txtPostalName").val(ui.item.id);
+                        $("#txtCountry").val("Norge");
+                    }
+                    else
+                    { return false;}
+                },
+                autoFocus: true,
+                delay: 100
+            });
+
+            $("#txtOrganizationName").autocomplete({
+                source: function (request, response) {
+                    $.ajax({
+                        url: "lookuporganizations", type: "GET", dataType: "json",
+
+                        data: { searchText: request.term, maxResults: 15 },
+                        success: function (data) {
+                            response($.map(data, function (item) {
+                                return { label: item, value: item }
+                            }))
+                        },
+                        error: function (XMLHttpRequest, textStatus, errorThrown) {
+                            alert(textStatus);
+                        }
+                    })
+                },
+                delay: 100
+            });
+            $("#txtBirthDate").focusout(function() {
+                BirthDateChanged($(this));
+            });
+            $("#txtBirthDate").change(function() {
+                BirthDateChanged($(this));
+            });
+            //Run once on load to ensure we get correct initial state
+            BirthDateChanged($("#txtBirthDate"));
+
+
+            function BirthDateChanged(dateEl)
+            {
+                if (dateEl == null) return;
+
+                var birthDate = dateEl.val();
+
+                if (birthDate == null || birthDate == "")
+                {
+                    $(".relativerow").hide(0);
+                }
+                else
+                {
+                    var dateParts = birthDate.split(".");
+                    if (dateParts.length == 3)
+                    {
+                        var daypart = dateParts[0];
+                        var monthpart = dateParts[1];
+                        var yearpart = dateParts[2];
+
+                        if (yearpart.length >= 1 && yearpart.length <=2)
+                        {
+                            var yearpartasint = parseInt(yearpart);
+                            if (yearpartasint < 20)
+                                yearpart = 2000 + yearpartasint;
+                            else
+                                yearpart = 1900 + yearpartasint;
+
+                            $(this).val(daypart + "." + monthpart + "." + yearpart.toString());
+                        }
+
+                        var date = new Date(yearpart, (monthpart - 1), daypart);
+                        var age = calculateAge(date);
+
+                        console.log("Age:" + age);
+                        console.log("Relative elements: " + $(".relativerow").length);
+
+                        if (age < 18)
+                        {
+                            console.log("Under " + 18 + "!");
+                            $(".relativerow").show(200);
+                            $("#fieldMobilePhone").removeClass('required');
+                            $("#fieldEmailAddress1").removeClass('required');
+                            $("#txtMobilePhone").removeAttr("required");
+                            $("#txtEmailAddress1").removeAttr("required");
+                            $("#fieldRelative1PersonFirstName").addClass('required');
+                            $("#fieldRelative1PersonLastName").addClass('required');
+                            $("#fieldRelative1MobilePhone").addClass('required');
+                            $("#fieldRelative1EmailAddress1").addClass('required');
+                            $("#txtRelative1PersonFirstName").attr('required', 'required');
+                            $("#txtRelative1PersonLastName").attr('required', 'required');
+                            $("#txtRelative1MobilePhone").attr('required', 'required');
+                            $("#txtRelative1HomePhone").attr('required', 'required');
+                        }
+                        else
+                        {
+                            $(".relativerow").hide(200);
+                            $("#fieldMobilePhone").addClass('required');
+                            $("#fieldEmailAddress1").addClass('required');
+                            //$("txtMobilePhone").attr('required', 'required');
+                            //$("txtEmailAddress1").attr('required', 'required');
+                            $("#txtRelative1PersonFirstName").removeAttr('required');
+                            $("#txtRelative1PersonLastName").removeAttr('required');
+                            $("#txtRelative1MobilePhone").removeAttr('required');
+                            $("#txtRelative1HomePhone").removeAttr('required');
+                        }
+                    }
+                }
+            }
+            function calculateAge(birthDate, otherDate) {
+                otherDate = otherDate || new Date();
+                birthDate = new Date(birthDate);
+                otherDate = new Date(otherDate);
+
+                var years = (otherDate.getFullYear() - birthDate.getFullYear());
+
+                if (otherDate.getMonth() < birthDate.getMonth() ||
+                    otherDate.getMonth() == birthDate.getMonth() && otherDate.getDate() < birthDate.getDate()) {
+                    years--;
+                }
+
+                return years;
+            }
+            /*
+            function getDateYymmdd(value) {
+                if (value == null)
+                    return null;
+                return $.datepicker.parseDate("yy/mm/dd", value);
+            }
+            $('.date').each(function () {
+                var minDate = getDateYymmdd($(this).data("val-rangedate-min"));
+                var maxDate = getDateYymmdd($(this).data("val-rangedate-max"));
+
+                $(this).datepicker({
+                    dateFormat: "dd/mm/yy",
+                    minDate: minDate,
+                maxDate: maxDate });
+            });
+            */
+        });
+    </script>
+
+</body>
+</html>

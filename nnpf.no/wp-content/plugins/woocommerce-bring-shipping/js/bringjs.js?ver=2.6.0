@@ -1,0 +1,37 @@
+/* Add bring js Code here */
+
+function toggle_visibility(id) {
+
+	var idtxt = document.getElementById(id);
+	var dis = 'map-' + id;
+	var showmap = 'show-' + id;
+	var hidemap = 'hide-' + id;
+
+	var e = document.getElementById(dis);
+	var showmapObj = document.getElementById(showmap);
+	var hidemapObj = document.getElementById(hidemap);
+
+	if(e.style.display == 'block'){
+		e.style.display = 'none';
+		hidemapObj.style.display = 'none';
+		showmapObj.style.display = 'block';
+		//idtxt.innerHTML = 'Show Map';
+	}else{
+		e.style.display = 'block';
+		showmapObj.style.display = 'none';
+		hidemapObj.style.display = 'block';
+		//idtxt.innerHTML = 'Hide Map';
+	}
+}
+
+
+jQuery(function() {
+    console.log( "ready!" );
+
+	if (typeof showmap == 'function') showmap();
+	jQuery(document.body).on('updated_cart_totals', function() { if (typeof showmap == 'function') showmap(); })
+});
+
+
+//jQuery(document.body).on('updated_checkout', function() { showmap();})
+//jQuery(document.body).on('updated_shipping_method', function() { showmap();})
