@@ -14,6 +14,13 @@ Personer
 * styremedlem - Trine Dyngeland Leiros
 * styremedlem - Vibeke Johansen Ingebrigtsen (også styreleder avd Oslo)
 * Sigmund Øvland, laget dokumentet "Personvernerklæring.pdf" på styreweb
+* Lars Holmen, tidligere (?) generalsekretær
+* Anette Gultvedt, leder NNPF 2011
+* Mette Roth, leder NNPF, nyvalgt 2011
+* Øyvind Røen (ideen til foreningen)
+* Hallgeir Larsen (sentrale i oppstarten)
+* Gunnar Larsen (sentrale i oppstarten)
+* Rune Solberg Swahn (NNPF i rusreformutvalget)
 
 * NORSK NARKOTIKA POLITIFORENING ROGALAND - Styrets leder: John Brunvær
 * NORSK NARKOTIKA POLITIFORENING ROGALAND - Styremedlem: Anette Gilje
@@ -99,7 +106,7 @@ Personer
 * NORSK NARKOTIKAPOLITIFORENING - LOKALLAG ROMERIKE - Styremedlem: Henrik Flo Larsen
 * NORSK NARKOTIKAPOLITIFORENING - LOKALLAG ROMERIKE - Styremedlem: Anne Kathrine Hofseth Gundersen
 
-* NORSK NARKOTIKAPOLITIFORENING HAUGALAND - Styrets leder: Torbjørn Nervik
+* NORSK NARKOTIKAPOLITIFORENING HAUGALAND - Styrets leder: Torbjørn Nervik		Også prosjektkoordinator "Bry get"
 * NORSK NARKOTIKAPOLITIFORENING HAUGALAND - Styremedlem: Jostein Salemonsen
 * NORSK NARKOTIKAPOLITIFORENING HAUGALAND - Styremedlem: Elisabeth Rød
 * NORSK NARKOTIKAPOLITIFORENING HAUGALAND - Styremedlem: Olav Høiland
