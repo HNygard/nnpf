@@ -1,3 +1,8 @@
+Ca alle har Torggata 1, Oslo som postadresse.
+
+
+
+
 Orgnr.    Navn                              Postnr./sted
 970014179 NORSK NARKOTIKAPOLITIFORENING0181 OSLO
 892878102 NORSK NARKOTIKAPOLITIFORENING, HORDALAND LOKALLAG0181 OSLO
