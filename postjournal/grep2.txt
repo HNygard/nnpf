@@ -1,0 +1,274 @@
+grep -R -i --include=*layout.txt "nnpf" -A4 -B4 .
+
+./politi-agder-politidistrikt/postliste_siste_10_år/2021-07-15_125651 - IN - att 7-9c982a7b97fd6e66b783e5f4a16d56fc.pdf.layout.txt-
+./politi-agder-politidistrikt/postliste_siste_10_år/2021-07-15_125651 - IN - att 7-9c982a7b97fd6e66b783e5f4a16d56fc.pdf.layout.txt-2014/00456-2
+./politi-agder-politidistrikt/postliste_siste_10_år/2021-07-15_125651 - IN - att 7-9c982a7b97fd6e66b783e5f4a16d56fc.pdf.layout.txt-                Dok.dato: 29042014                              Grad: UO      Par.:
+./politi-agder-politidistrikt/postliste_siste_10_år/2021-07-15_125651 - IN - att 7-9c982a7b97fd6e66b783e5f4a16d56fc.pdf.layout.txt-                Jour.dato: 29042014
+./politi-agder-politidistrikt/postliste_siste_10_år/2021-07-15_125651 - IN - att 7-9c982a7b97fd6e66b783e5f4a16d56fc.pdf.layout.txt:U       Til:    NNPF Agder
+./politi-agder-politidistrikt/postliste_siste_10_år/2021-07-15_125651 - IN - att 7-9c982a7b97fd6e66b783e5f4a16d56fc.pdf.layout.txt-        Sak:    Økonomisk støtte tilskudd 2014
+./politi-agder-politidistrikt/postliste_siste_10_år/2021-07-15_125651 - IN - att 7-9c982a7b97fd6e66b783e5f4a16d56fc.pdf.layout.txt-                                 -
+./politi-agder-politidistrikt/postliste_siste_10_år/2021-07-15_125651 - IN - att 7-9c982a7b97fd6e66b783e5f4a16d56fc.pdf.layout.txt-
+./politi-agder-politidistrikt/postliste_siste_10_år/2021-07-15_125651 - IN - att 7-9c982a7b97fd6e66b783e5f4a16d56fc.pdf.layout.txt-
+./politi-agder-politidistrikt/postliste_siste_10_år/2021-07-15_125651 - IN - att 7-9c982a7b97fd6e66b783e5f4a16d56fc.pdf.layout.txt-
+./politi-agder-politidistrikt/postliste_siste_10_år/2021-07-15_125651 - IN - att 7-9c982a7b97fd6e66b783e5f4a16d56fc.pdf.layout.txt-
+./politi-agder-politidistrikt/postliste_siste_10_år/2021-07-15_125651 - IN - att 7-9c982a7b97fd6e66b783e5f4a16d56fc.pdf.layout.txt:        Dok:    Søknad om støtte til deltakelse på NNPFs Utdanninngskonferanse 2014
+./politi-agder-politidistrikt/postliste_siste_10_år/2021-07-15_125651 - IN - att 7-9c982a7b97fd6e66b783e5f4a16d56fc.pdf.layout.txt-                Saksansv: A-1 I ADMIS                          Saksbeh: A-l I PERSONAL
+./politi-agder-politidistrikt/postliste_siste_10_år/2021-07-15_125651 - IN - att 7-9c982a7b97fd6e66b783e5f4a16d56fc.pdf.layout.txt-
+./politi-agder-politidistrikt/postliste_siste_10_år/2021-07-15_125651 - IN - att 7-9c982a7b97fd6e66b783e5f4a16d56fc.pdf.layout.txt-
+./politi-agder-politidistrikt/postliste_siste_10_år/2021-07-15_125651 - IN - att 7-9c982a7b97fd6e66b783e5f4a16d56fc.pdf.layout.txt-
+--
+./politi-agder-politidistrikt/postliste_siste_10_år/2021-07-15_134540 - IN - att 2-241c94f32808ab0466e92f8bf3df2d5c.pdf.layout.txt-
+./politi-agder-politidistrikt/postliste_siste_10_år/2021-07-15_134540 - IN - att 2-241c94f32808ab0466e92f8bf3df2d5c.pdf.layout.txt-
+./politi-agder-politidistrikt/postliste_siste_10_år/2021-07-15_134540 - IN - att 2-241c94f32808ab0466e92f8bf3df2d5c.pdf.layout.txt-
+./politi-agder-politidistrikt/postliste_siste_10_år/2021-07-15_134540 - IN - att 2-241c94f32808ab0466e92f8bf3df2d5c.pdf.layout.txt-  20/107693-2 Informasjon
+./politi-agder-politidistrikt/postliste_siste_10_år/2021-07-15_134540 - IN - att 2-241c94f32808ab0466e92f8bf3df2d5c.pdf.layout.txt:              SakID/Tittel                    20/107693 Stipend NNPF
+./politi-agder-politidistrikt/postliste_siste_10_år/2021-07-15_134540 - IN - att 2-241c94f32808ab0466e92f8bf3df2d5c.pdf.layout.txt-
+./politi-agder-politidistrikt/postliste_siste_10_år/2021-07-15_134540 - IN - att 2-241c94f32808ab0466e92f8bf3df2d5c.pdf.layout.txt-                  JournalpostID               20/357194             Dokumenttype    Inngående brev      Dokumentets dato 04.09.2020
+./politi-agder-politidistrikt/postliste_siste_10_år/2021-07-15_134540 - IN - att 2-241c94f32808ab0466e92f8bf3df2d5c.pdf.layout.txt-                  Skjerming jp                                      Paragraf jp                         Journaldato      04.09.2020
+./politi-agder-politidistrikt/postliste_siste_10_år/2021-07-15_134540 - IN - att 2-241c94f32808ab0466e92f8bf3df2d5c.pdf.layout.txt-                  Avsender                    Norsk Narkotikapolitiforening
+--
+./politi-agder-politidistrikt/postliste_siste_10_år/2021-07-15_130734 - IN - att 1-9c9ab894813aba9fc8fa0b1e7fb7a38e.pdf.layout.txt-               Jour.dato: 04092015
+./politi-agder-politidistrikt/postliste_siste_10_år/2021-07-15_130734 - IN - att 1-9c9ab894813aba9fc8fa0b1e7fb7a38e.pdf.layout.txt-               Grad: UO 5 Par.: Offl. 13.1 jf fvl 13.1.1
+./politi-agder-politidistrikt/postliste_siste_10_år/2021-07-15_130734 - IN - att 1-9c9ab894813aba9fc8fa0b1e7fb7a38e.pdf.layout.txt-U      Til:    Avskjermet
+./politi-agder-politidistrikt/postliste_siste_10_år/2021-07-15_130734 - IN - att 1-9c9ab894813aba9fc8fa0b1e7fb7a38e.pdf.layout.txt-       Sak:    Økonomisk støtte - tilskudd 2015
+./politi-agder-politidistrikt/postliste_siste_10_år/2021-07-15_130734 - IN - att 1-9c9ab894813aba9fc8fa0b1e7fb7a38e.pdf.layout.txt:       Dok:    Vedrørende søknad om støtte til deltakelse på NNPFs Utdanningskonferanse 2015 -
+./politi-agder-politidistrikt/postliste_siste_10_år/2021-07-15_130734 - IN - att 1-9c9ab894813aba9fc8fa0b1e7fb7a38e.pdf.layout.txt-               Avskjermet
+./politi-agder-politidistrikt/postliste_siste_10_år/2021-07-15_130734 - IN - att 1-9c9ab894813aba9fc8fa0b1e7fb7a38e.pdf.layout.txt-               Saksansv: A-1 / ADMIS                        Saksbeh: A-1 / PERSONAL
+./politi-agder-politidistrikt/postliste_siste_10_år/2021-07-15_130734 - IN - att 1-9c9ab894813aba9fc8fa0b1e7fb7a38e.pdf.layout.txt-
+./politi-agder-politidistrikt/postliste_siste_10_år/2021-07-15_130734 - IN - att 1-9c9ab894813aba9fc8fa0b1e7fb7a38e.pdf.layout.txt-2015/03294-2
+--
+./politi-agder-politidistrikt/postliste_siste_10_år/2021-07-15_124854 - IN - att 12-6241f52d094c547b2782ce586c14ff40.pdf.layout.txt-2013/00021-5
+./politi-agder-politidistrikt/postliste_siste_10_år/2021-07-15_124854 - IN - att 12-6241f52d094c547b2782ce586c14ff40.pdf.layout.txt-                Dok.dato: 16072013
+./politi-agder-politidistrikt/postliste_siste_10_år/2021-07-15_124854 - IN - att 12-6241f52d094c547b2782ce586c14ff40.pdf.layout.txt-                Jour.dato: 29082013
+./politi-agder-politidistrikt/postliste_siste_10_år/2021-07-15_124854 - IN - att 12-6241f52d094c547b2782ce586c14ff40.pdf.layout.txt-                Grad: U 0 Par.:
+./politi-agder-politidistrikt/postliste_siste_10_år/2021-07-15_124854 - IN - att 12-6241f52d094c547b2782ce586c14ff40.pdf.layout.txt:I      Fra:     NNPF Agder
+./politi-agder-politidistrikt/postliste_siste_10_år/2021-07-15_124854 - IN - att 12-6241f52d094c547b2782ce586c14ff40.pdf.layout.txt-       Sak:     Økonomisk støtte - tilskudd 2013
+./politi-agder-politidistrikt/postliste_siste_10_år/2021-07-15_124854 - IN - att 12-6241f52d094c547b2782ce586c14ff40.pdf.layout.txt:       Dok:     Søknad om støtte til deltakelse på NNPFs Utdanningskonferanse 2013
+./politi-agder-politidistrikt/postliste_siste_10_år/2021-07-15_124854 - IN - att 12-6241f52d094c547b2782ce586c14ff40.pdf.layout.txt-                Saksansv: A-1 / ADMIS                              Saksbeh: A-1 / PERSONAL
+./politi-agder-politidistrikt/postliste_siste_10_år/2021-07-15_124854 - IN - att 12-6241f52d094c547b2782ce586c14ff40.pdf.layout.txt-
+./politi-agder-politidistrikt/postliste_siste_10_år/2021-07-15_124854 - IN - att 12-6241f52d094c547b2782ce586c14ff40.pdf.layout.txt-2013/00021-6
+./politi-agder-politidistrikt/postliste_siste_10_år/2021-07-15_124854 - IN - att 12-6241f52d094c547b2782ce586c14ff40.pdf.layout.txt-                Dok.dato: 29082013
+./politi-agder-politidistrikt/postliste_siste_10_år/2021-07-15_124854 - IN - att 12-6241f52d094c547b2782ce586c14ff40.pdf.layout.txt-                Jour.dato: 29082013
+./politi-agder-politidistrikt/postliste_siste_10_år/2021-07-15_124854 - IN - att 12-6241f52d094c547b2782ce586c14ff40.pdf.layout.txt-                Grad: U 0 Par.:
+./politi-agder-politidistrikt/postliste_siste_10_år/2021-07-15_124854 - IN - att 12-6241f52d094c547b2782ce586c14ff40.pdf.layout.txt:U      Til:     NNPF Agder
+./politi-agder-politidistrikt/postliste_siste_10_år/2021-07-15_124854 - IN - att 12-6241f52d094c547b2782ce586c14ff40.pdf.layout.txt-       Sak:     Økonomisk støtte - tilskudd 2013
+./politi-agder-politidistrikt/postliste_siste_10_år/2021-07-15_124854 - IN - att 12-6241f52d094c547b2782ce586c14ff40.pdf.layout.txt:       Dok:     Søknad om støtte til deltakelse på NNPFs Utdanningskonferanse 2013
+./politi-agder-politidistrikt/postliste_siste_10_år/2021-07-15_124854 - IN - att 12-6241f52d094c547b2782ce586c14ff40.pdf.layout.txt-                Saksansv: A-1 / ADMIS                              Saksbeh: A-1 / PERSONAL
+./politi-agder-politidistrikt/postliste_siste_10_år/2021-07-15_124854 - IN - att 12-6241f52d094c547b2782ce586c14ff40.pdf.layout.txt-
+./politi-agder-politidistrikt/postliste_siste_10_år/2021-07-15_124854 - IN - att 12-6241f52d094c547b2782ce586c14ff40.pdf.layout.txt-2013/00057-49
+./politi-agder-politidistrikt/postliste_siste_10_år/2021-07-15_124854 - IN - att 12-6241f52d094c547b2782ce586c14ff40.pdf.layout.txt-                Dok.dato: 28082013
+--
+./politi-agder-politidistrikt/postliste_siste_10_år/2021-07-15_132650 - IN - att 3-cc160ed782bd092ea8af194902f269d3.pdf.layout.txt-2017/01568-4
+./politi-agder-politidistrikt/postliste_siste_10_år/2021-07-15_132650 - IN - att 3-cc160ed782bd092ea8af194902f269d3.pdf.layout.txt-               Dok.dato: 12072017
+./politi-agder-politidistrikt/postliste_siste_10_år/2021-07-15_132650 - IN - att 3-cc160ed782bd092ea8af194902f269d3.pdf.layout.txt-               Jour.dato: 12072017
+./politi-agder-politidistrikt/postliste_siste_10_år/2021-07-15_132650 - IN - att 3-cc160ed782bd092ea8af194902f269d3.pdf.layout.txt-               Grad: U 0 Par.:
+./politi-agder-politidistrikt/postliste_siste_10_år/2021-07-15_132650 - IN - att 3-cc160ed782bd092ea8af194902f269d3.pdf.layout.txt:U      Til:    NNPF Agder
+./politi-agder-politidistrikt/postliste_siste_10_år/2021-07-15_132650 - IN - att 3-cc160ed782bd092ea8af194902f269d3.pdf.layout.txt-       Sak:    Økonomisk støtte - tilskudd 2017
+./politi-agder-politidistrikt/postliste_siste_10_år/2021-07-15_132650 - IN - att 3-cc160ed782bd092ea8af194902f269d3.pdf.layout.txt:       Dok:    Vedrørende søknad om støtte til deltakelse på NNPFs Utdanningskonferanse 2017
+./politi-agder-politidistrikt/postliste_siste_10_år/2021-07-15_132650 - IN - att 3-cc160ed782bd092ea8af194902f269d3.pdf.layout.txt-               Saksansv: SVS / L_SVS                           Saksbeh: SHR_HMS / HR
+./politi-agder-politidistrikt/postliste_siste_10_år/2021-07-15_132650 - IN - att 3-cc160ed782bd092ea8af194902f269d3.pdf.layout.txt-
+./politi-agder-politidistrikt/postliste_siste_10_år/2021-07-15_132650 - IN - att 3-cc160ed782bd092ea8af194902f269d3.pdf.layout.txt-
+./politi-agder-politidistrikt/postliste_siste_10_år/2021-07-15_132650 - IN - att 3-cc160ed782bd092ea8af194902f269d3.pdf.layout.txt-
+--
+./politi-agder-politidistrikt/postliste_siste_10_år/2021-07-15_134508 - IN - att 10-113f0dce6fa31204828da7e6e09836a8.pdf.layout.txt-               Avsender             Kristiansand kommune
+./politi-agder-politidistrikt/postliste_siste_10_år/2021-07-15_134508 - IN - att 10-113f0dce6fa31204828da7e6e09836a8.pdf.layout.txt-
+./politi-agder-politidistrikt/postliste_siste_10_år/2021-07-15_134508 - IN - att 10-113f0dce6fa31204828da7e6e09836a8.pdf.layout.txt-
+./politi-agder-politidistrikt/postliste_siste_10_år/2021-07-15_134508 - IN - att 10-113f0dce6fa31204828da7e6e09836a8.pdf.layout.txt-
+./politi-agder-politidistrikt/postliste_siste_10_år/2021-07-15_134508 - IN - att 10-113f0dce6fa31204828da7e6e09836a8.pdf.layout.txt:  20/107693-1 NNPF Stipend 2020
+./politi-agder-politidistrikt/postliste_siste_10_år/2021-07-15_134508 - IN - att 10-113f0dce6fa31204828da7e6e09836a8.pdf.layout.txt:              SakID/Tittel      20/107693 Stipend NNPF
+./politi-agder-politidistrikt/postliste_siste_10_år/2021-07-15_134508 - IN - att 10-113f0dce6fa31204828da7e6e09836a8.pdf.layout.txt-
+./politi-agder-politidistrikt/postliste_siste_10_år/2021-07-15_134508 - IN - att 10-113f0dce6fa31204828da7e6e09836a8.pdf.layout.txt-               JournalpostID        20/349616             Dokumenttype       Inngående brev        Dokumentets dato 31.08.2020
+./politi-agder-politidistrikt/postliste_siste_10_år/2021-07-15_134508 - IN - att 10-113f0dce6fa31204828da7e6e09836a8.pdf.layout.txt-               Skjerming jp                               Paragraf jp                              Journaldato      31.08.2020
+./politi-agder-politidistrikt/postliste_siste_10_år/2021-07-15_134508 - IN - att 10-113f0dce6fa31204828da7e6e09836a8.pdf.layout.txt-               Avsender             Norsk Narkotikapolitiforening
+--
+./politi-agder-politidistrikt/postliste_siste_10_år/2021-07-15_132131 - IN - att 9-d28dfa57d2aa16b981ec6866f1429ed8.pdf.layout.txt-                Jour.dato: 30102017
+./politi-agder-politidistrikt/postliste_siste_10_år/2021-07-15_132131 - IN - att 9-d28dfa57d2aa16b981ec6866f1429ed8.pdf.layout.txt-                Grad: UO 5 Par.: Offl. 13.1 jf fvl 13.1.1
+./politi-agder-politidistrikt/postliste_siste_10_år/2021-07-15_132131 - IN - att 9-d28dfa57d2aa16b981ec6866f1429ed8.pdf.layout.txt-I      Fra:     Avskjermet
+./politi-agder-politidistrikt/postliste_siste_10_år/2021-07-15_132131 - IN - att 9-d28dfa57d2aa16b981ec6866f1429ed8.pdf.layout.txt-       Sak:     Personalmappe - Avskjermet
+./politi-agder-politidistrikt/postliste_siste_10_år/2021-07-15_132131 - IN - att 9-d28dfa57d2aa16b981ec6866f1429ed8.pdf.layout.txt:       Dok:     NNPF kursbevis 2017 3 dager - Avskjermet
+./politi-agder-politidistrikt/postliste_siste_10_år/2021-07-15_132131 - IN - att 9-d28dfa57d2aa16b981ec6866f1429ed8.pdf.layout.txt-                Saksansv: SHR_HMS / HR                       Saksbeh: SHR_HMS / HR
+./politi-agder-politidistrikt/postliste_siste_10_år/2021-07-15_132131 - IN - att 9-d28dfa57d2aa16b981ec6866f1429ed8.pdf.layout.txt-
+./politi-agder-politidistrikt/postliste_siste_10_år/2021-07-15_132131 - IN - att 9-d28dfa57d2aa16b981ec6866f1429ed8.pdf.layout.txt-2013/00489-39
+./politi-agder-politidistrikt/postliste_siste_10_år/2021-07-15_132131 - IN - att 9-d28dfa57d2aa16b981ec6866f1429ed8.pdf.layout.txt-                Dok.dato: 28102017
+./politi-agder-politidistrikt/postliste_siste_10_år/2021-07-15_132131 - IN - att 9-d28dfa57d2aa16b981ec6866f1429ed8.pdf.layout.txt-                Jour.dato: 30102017
+./politi-agder-politidistrikt/postliste_siste_10_år/2021-07-15_132131 - IN - att 9-d28dfa57d2aa16b981ec6866f1429ed8.pdf.layout.txt-                Grad: UO 5 Par.: Offl. 13.1 jf fvl 13.1.1
+./politi-agder-politidistrikt/postliste_siste_10_år/2021-07-15_132131 - IN - att 9-d28dfa57d2aa16b981ec6866f1429ed8.pdf.layout.txt-I      Fra:     Avskjermet
+./politi-agder-politidistrikt/postliste_siste_10_år/2021-07-15_132131 - IN - att 9-d28dfa57d2aa16b981ec6866f1429ed8.pdf.layout.txt-       Sak:     Personalmappe - Avskjermet
+./politi-agder-politidistrikt/postliste_siste_10_år/2021-07-15_132131 - IN - att 9-d28dfa57d2aa16b981ec6866f1429ed8.pdf.layout.txt:       Dok:     NNPF 2017 kursbevis (3 dager) - Avskjermet
+./politi-agder-politidistrikt/postliste_siste_10_år/2021-07-15_132131 - IN - att 9-d28dfa57d2aa16b981ec6866f1429ed8.pdf.layout.txt-                Saksansv: SHR_HMS / HR                       Saksbeh: SHR_HMS / HR
+./politi-agder-politidistrikt/postliste_siste_10_år/2021-07-15_132131 - IN - att 9-d28dfa57d2aa16b981ec6866f1429ed8.pdf.layout.txt-
+./politi-agder-politidistrikt/postliste_siste_10_år/2021-07-15_132131 - IN - att 9-d28dfa57d2aa16b981ec6866f1429ed8.pdf.layout.txt-2013/00558-12
+./politi-agder-politidistrikt/postliste_siste_10_år/2021-07-15_132131 - IN - att 9-d28dfa57d2aa16b981ec6866f1429ed8.pdf.layout.txt-                Dok.dato: 27102017
+--
+./politi-agder-politidistrikt/postliste_siste_10_år/2021-07-15_130705 - IN - att 4-a447fe0fa1bf64bc16ef5f892666b310.pdf.layout.txt-                Jour.dato: 14082015
+./politi-agder-politidistrikt/postliste_siste_10_år/2021-07-15_130705 - IN - att 4-a447fe0fa1bf64bc16ef5f892666b310.pdf.layout.txt-                Grad: UO 5 Par.: Offl. 13.1 jf fvl 13.1.1
+./politi-agder-politidistrikt/postliste_siste_10_år/2021-07-15_130705 - IN - att 4-a447fe0fa1bf64bc16ef5f892666b310.pdf.layout.txt-I      Fra:     Avskjermet
+./politi-agder-politidistrikt/postliste_siste_10_år/2021-07-15_130705 - IN - att 4-a447fe0fa1bf64bc16ef5f892666b310.pdf.layout.txt-       Sak:     Personalmappe - Avskjermet
+./politi-agder-politidistrikt/postliste_siste_10_år/2021-07-15_130705 - IN - att 4-a447fe0fa1bf64bc16ef5f892666b310.pdf.layout.txt:       Dok:     Søknad om støtte til deltakelse på NNPFs Utdanningskonferanse 2015 - Avskjermet
+./politi-agder-politidistrikt/postliste_siste_10_år/2021-07-15_130705 - IN - att 4-a447fe0fa1bf64bc16ef5f892666b310.pdf.layout.txt-                Saksansv: A-1 / PERSONAL                      Saksbeh: A-1 / PERSONAL
+./politi-agder-politidistrikt/postliste_siste_10_år/2021-07-15_130705 - IN - att 4-a447fe0fa1bf64bc16ef5f892666b310.pdf.layout.txt-
+./politi-agder-politidistrikt/postliste_siste_10_år/2021-07-15_130705 - IN - att 4-a447fe0fa1bf64bc16ef5f892666b310.pdf.layout.txt-2013/00404-12
+./politi-agder-politidistrikt/postliste_siste_10_år/2021-07-15_130705 - IN - att 4-a447fe0fa1bf64bc16ef5f892666b310.pdf.layout.txt-                Dok.dato: 10082015
+--
+./politi-agder-politidistrikt/postliste_siste_10_år/2021-07-15_131212 - IN - att 6-7871cd8168d7c9f8a34d65ed3b3e298f.pdf.layout.txt-2016/02236-2
+./politi-agder-politidistrikt/postliste_siste_10_år/2021-07-15_131212 - IN - att 6-7871cd8168d7c9f8a34d65ed3b3e298f.pdf.layout.txt-               Dok.dato: 18052016
+./politi-agder-politidistrikt/postliste_siste_10_år/2021-07-15_131212 - IN - att 6-7871cd8168d7c9f8a34d65ed3b3e298f.pdf.layout.txt-               Jour.dato: 19052016
+./politi-agder-politidistrikt/postliste_siste_10_år/2021-07-15_131212 - IN - att 6-7871cd8168d7c9f8a34d65ed3b3e298f.pdf.layout.txt-               Grad: U 0 Par.:
+./politi-agder-politidistrikt/postliste_siste_10_år/2021-07-15_131212 - IN - att 6-7871cd8168d7c9f8a34d65ed3b3e298f.pdf.layout.txt:U      Til:    NNPF Agder
+./politi-agder-politidistrikt/postliste_siste_10_år/2021-07-15_131212 - IN - att 6-7871cd8168d7c9f8a34d65ed3b3e298f.pdf.layout.txt-       Sak:    Økonomisk støtte - tilskudd 2016
+./politi-agder-politidistrikt/postliste_siste_10_år/2021-07-15_131212 - IN - att 6-7871cd8168d7c9f8a34d65ed3b3e298f.pdf.layout.txt:       Dok:    Vedrørende søknad om støtte til deltakelse på NNPF's Utdanningskonferanse 2016
+./politi-agder-politidistrikt/postliste_siste_10_år/2021-07-15_131212 - IN - att 6-7871cd8168d7c9f8a34d65ed3b3e298f.pdf.layout.txt-               Saksansv: A-1 / ADMIS                         Saksbeh: A-1 / PERSONAL
+./politi-agder-politidistrikt/postliste_siste_10_år/2021-07-15_131212 - IN - att 6-7871cd8168d7c9f8a34d65ed3b3e298f.pdf.layout.txt-
+./politi-agder-politidistrikt/postliste_siste_10_år/2021-07-15_131212 - IN - att 6-7871cd8168d7c9f8a34d65ed3b3e298f.pdf.layout.txt-2016/02241-2
+./politi-agder-politidistrikt/postliste_siste_10_år/2021-07-15_131212 - IN - att 6-7871cd8168d7c9f8a34d65ed3b3e298f.pdf.layout.txt-               Dok.dato: 19052016
+--
+./politi-agder-politidistrikt/postliste_siste_10_år/2021-07-15_131819 - IN - att 4-b6dc43bf3fbfc91ef5df97f2d60f99e9.pdf.layout.txt-2017/01568-1
+./politi-agder-politidistrikt/postliste_siste_10_år/2021-07-15_131819 - IN - att 4-b6dc43bf3fbfc91ef5df97f2d60f99e9.pdf.layout.txt-               Dok.dato: 09042017
+./politi-agder-politidistrikt/postliste_siste_10_år/2021-07-15_131819 - IN - att 4-b6dc43bf3fbfc91ef5df97f2d60f99e9.pdf.layout.txt-               Jour.dato: 18042017
+./politi-agder-politidistrikt/postliste_siste_10_år/2021-07-15_131819 - IN - att 4-b6dc43bf3fbfc91ef5df97f2d60f99e9.pdf.layout.txt-               Grad: U 0 Par.:
+./politi-agder-politidistrikt/postliste_siste_10_år/2021-07-15_131819 - IN - att 4-b6dc43bf3fbfc91ef5df97f2d60f99e9.pdf.layout.txt:I      Fra:    NNPF
+./politi-agder-politidistrikt/postliste_siste_10_år/2021-07-15_131819 - IN - att 4-b6dc43bf3fbfc91ef5df97f2d60f99e9.pdf.layout.txt-       Sak:    Økonomisk støtte - tilskudd 2017
+./politi-agder-politidistrikt/postliste_siste_10_år/2021-07-15_131819 - IN - att 4-b6dc43bf3fbfc91ef5df97f2d60f99e9.pdf.layout.txt:       Dok:    Søknad om støtte til deltakelse på NNPFs Utdanningskonferanse 2017
+./politi-agder-politidistrikt/postliste_siste_10_år/2021-07-15_131819 - IN - att 4-b6dc43bf3fbfc91ef5df97f2d60f99e9.pdf.layout.txt-               Saksansv: SVS / L_SVS                          Saksbeh: SHR_HMS / L_HR_HMS
+./politi-agder-politidistrikt/postliste_siste_10_år/2021-07-15_131819 - IN - att 4-b6dc43bf3fbfc91ef5df97f2d60f99e9.pdf.layout.txt-
+./politi-agder-politidistrikt/postliste_siste_10_år/2021-07-15_131819 - IN - att 4-b6dc43bf3fbfc91ef5df97f2d60f99e9.pdf.layout.txt-2017/01569-1
+./politi-agder-politidistrikt/postliste_siste_10_år/2021-07-15_131819 - IN - att 4-b6dc43bf3fbfc91ef5df97f2d60f99e9.pdf.layout.txt-               Dok.dato: 18042017
+--
+./politi-agder-politidistrikt/postliste_siste_10_år/2021-07-15_130119 - IN - att 5-90bc2a73785827efb1bb370996386dfc.pdf.layout.txt-                Jour.dato: 18112014
+./politi-agder-politidistrikt/postliste_siste_10_år/2021-07-15_130119 - IN - att 5-90bc2a73785827efb1bb370996386dfc.pdf.layout.txt-
+./politi-agder-politidistrikt/postliste_siste_10_år/2021-07-15_130119 - IN - att 5-90bc2a73785827efb1bb370996386dfc.pdf.layout.txt-I      Fra:     Avskjermet
+./politi-agder-politidistrikt/postliste_siste_10_år/2021-07-15_130119 - IN - att 5-90bc2a73785827efb1bb370996386dfc.pdf.layout.txt-       Sak:     Personalmappe - Avskjermet
+./politi-agder-politidistrikt/postliste_siste_10_år/2021-07-15_130119 - IN - att 5-90bc2a73785827efb1bb370996386dfc.pdf.layout.txt:       Dok:     Kursdager NNPF
+./politi-agder-politidistrikt/postliste_siste_10_år/2021-07-15_130119 - IN - att 5-90bc2a73785827efb1bb370996386dfc.pdf.layout.txt-                Saksansv: A-1 / PERSONAL                     Saksbeh: A-1 / PERSONAL
+./politi-agder-politidistrikt/postliste_siste_10_år/2021-07-15_130119 - IN - att 5-90bc2a73785827efb1bb370996386dfc.pdf.layout.txt-2013/02472-28
+./politi-agder-politidistrikt/postliste_siste_10_år/2021-07-15_130119 - IN - att 5-90bc2a73785827efb1bb370996386dfc.pdf.layout.txt-                Dok.dato: 17112014                             Grad: UO 5    Par.: Offl. 13.1 jf fvl
+./politi-agder-politidistrikt/postliste_siste_10_år/2021-07-15_130119 - IN - att 5-90bc2a73785827efb1bb370996386dfc.pdf.layout.txt-                                                                                   13.1.1
+--
+./politi-agder-politidistrikt/postliste_siste_10_år/2021-07-15_131457 - IN - att 8-c2d62746b39c8469653e97994f473e33.pdf.layout.txt-                Jour.dato: 01112016
+./politi-agder-politidistrikt/postliste_siste_10_år/2021-07-15_131457 - IN - att 8-c2d62746b39c8469653e97994f473e33.pdf.layout.txt-                Grad: UO 5 Par.: Offl. 13.1 jf fvl 13.1.1
+./politi-agder-politidistrikt/postliste_siste_10_år/2021-07-15_131457 - IN - att 8-c2d62746b39c8469653e97994f473e33.pdf.layout.txt-I      Fra:     Avskjermet
+./politi-agder-politidistrikt/postliste_siste_10_år/2021-07-15_131457 - IN - att 8-c2d62746b39c8469653e97994f473e33.pdf.layout.txt-       Sak:     Personalmappe - Avskjermet
+./politi-agder-politidistrikt/postliste_siste_10_år/2021-07-15_131457 - IN - att 8-c2d62746b39c8469653e97994f473e33.pdf.layout.txt:       Dok:     Kursbevis NNPF - Avskjermet
+./politi-agder-politidistrikt/postliste_siste_10_år/2021-07-15_131457 - IN - att 8-c2d62746b39c8469653e97994f473e33.pdf.layout.txt-                Saksansv: A-1 / PERSONAL                       Saksbeh: A-1 / PERSONAL
+./politi-agder-politidistrikt/postliste_siste_10_år/2021-07-15_131457 - IN - att 8-c2d62746b39c8469653e97994f473e33.pdf.layout.txt-
+./politi-agder-politidistrikt/postliste_siste_10_år/2021-07-15_131457 - IN - att 8-c2d62746b39c8469653e97994f473e33.pdf.layout.txt-
+./politi-agder-politidistrikt/postliste_siste_10_år/2021-07-15_131457 - IN - att 8-c2d62746b39c8469653e97994f473e33.pdf.layout.txt-
+--
+./politi-agder-politidistrikt/postliste_siste_10_år/2021-07-15_130705 - IN - att 8-49985612836cfb668c1f2474fb61545f.pdf.layout.txt-2015/03290-2
+./politi-agder-politidistrikt/postliste_siste_10_år/2021-07-15_130705 - IN - att 8-49985612836cfb668c1f2474fb61545f.pdf.layout.txt-               Dok.dato: 27082015
+./politi-agder-politidistrikt/postliste_siste_10_år/2021-07-15_130705 - IN - att 8-49985612836cfb668c1f2474fb61545f.pdf.layout.txt-               Jour.dato: 27082015
+./politi-agder-politidistrikt/postliste_siste_10_år/2021-07-15_130705 - IN - att 8-49985612836cfb668c1f2474fb61545f.pdf.layout.txt-               Grad: UO 2 Par.: Offl. 13.1 jf fvl 13.1.1
+./politi-agder-politidistrikt/postliste_siste_10_år/2021-07-15_130705 - IN - att 8-49985612836cfb668c1f2474fb61545f.pdf.layout.txt:I      Fra:    NNPF
+./politi-agder-politidistrikt/postliste_siste_10_år/2021-07-15_130705 - IN - att 8-49985612836cfb668c1f2474fb61545f.pdf.layout.txt-       Sak:    Økonomisk støtte - tilskudd 2015
+./politi-agder-politidistrikt/postliste_siste_10_år/2021-07-15_130705 - IN - att 8-49985612836cfb668c1f2474fb61545f.pdf.layout.txt:       Dok:    NNPF og utdanningskonferansen
+./politi-agder-politidistrikt/postliste_siste_10_år/2021-07-15_130705 - IN - att 8-49985612836cfb668c1f2474fb61545f.pdf.layout.txt-               Saksansv: A-1 / ADMIS                          Saksbeh: A-1 / PERSONAL
+./politi-agder-politidistrikt/postliste_siste_10_år/2021-07-15_130705 - IN - att 8-49985612836cfb668c1f2474fb61545f.pdf.layout.txt-
+./politi-agder-politidistrikt/postliste_siste_10_år/2021-07-15_130705 - IN - att 8-49985612836cfb668c1f2474fb61545f.pdf.layout.txt-
+./politi-agder-politidistrikt/postliste_siste_10_år/2021-07-15_130705 - IN - att 8-49985612836cfb668c1f2474fb61545f.pdf.layout.txt-
+--
+./politi-agder-politidistrikt/postliste_siste_10_år/2021-07-15_132001 - IN - att 3-cc160ed782bd092ea8af194902f269d3.pdf.layout.txt-2017/01568-4
+./politi-agder-politidistrikt/postliste_siste_10_år/2021-07-15_132001 - IN - att 3-cc160ed782bd092ea8af194902f269d3.pdf.layout.txt-               Dok.dato: 12072017
+./politi-agder-politidistrikt/postliste_siste_10_år/2021-07-15_132001 - IN - att 3-cc160ed782bd092ea8af194902f269d3.pdf.layout.txt-               Jour.dato: 12072017
+./politi-agder-politidistrikt/postliste_siste_10_år/2021-07-15_132001 - IN - att 3-cc160ed782bd092ea8af194902f269d3.pdf.layout.txt-               Grad: U 0 Par.:
+./politi-agder-politidistrikt/postliste_siste_10_år/2021-07-15_132001 - IN - att 3-cc160ed782bd092ea8af194902f269d3.pdf.layout.txt:U      Til:    NNPF Agder
+./politi-agder-politidistrikt/postliste_siste_10_år/2021-07-15_132001 - IN - att 3-cc160ed782bd092ea8af194902f269d3.pdf.layout.txt-       Sak:    Økonomisk støtte - tilskudd 2017
+./politi-agder-politidistrikt/postliste_siste_10_år/2021-07-15_132001 - IN - att 3-cc160ed782bd092ea8af194902f269d3.pdf.layout.txt:       Dok:    Vedrørende søknad om støtte til deltakelse på NNPFs Utdanningskonferanse 2017
+./politi-agder-politidistrikt/postliste_siste_10_år/2021-07-15_132001 - IN - att 3-cc160ed782bd092ea8af194902f269d3.pdf.layout.txt-               Saksansv: SVS / L_SVS                           Saksbeh: SHR_HMS / HR
+./politi-agder-politidistrikt/postliste_siste_10_år/2021-07-15_132001 - IN - att 3-cc160ed782bd092ea8af194902f269d3.pdf.layout.txt-
+./politi-agder-politidistrikt/postliste_siste_10_år/2021-07-15_132001 - IN - att 3-cc160ed782bd092ea8af194902f269d3.pdf.layout.txt-
+./politi-agder-politidistrikt/postliste_siste_10_år/2021-07-15_132001 - IN - att 3-cc160ed782bd092ea8af194902f269d3.pdf.layout.txt-
+--
+./politi-agder-politidistrikt/postliste_siste_10_år/2021-07-15_131212 - IN - att 3-9f7cf80f545b34ca035258bc2306d3a8.pdf.layout.txt-               Jour.dato: 10052016
+./politi-agder-politidistrikt/postliste_siste_10_år/2021-07-15_131212 - IN - att 3-9f7cf80f545b34ca035258bc2306d3a8.pdf.layout.txt-               Grad: UO 5 Par.: Offl. 13.1 jf fvl 13.1.1
+./politi-agder-politidistrikt/postliste_siste_10_år/2021-07-15_131212 - IN - att 3-9f7cf80f545b34ca035258bc2306d3a8.pdf.layout.txt-I      Fra:    Avskjermet
+./politi-agder-politidistrikt/postliste_siste_10_år/2021-07-15_131212 - IN - att 3-9f7cf80f545b34ca035258bc2306d3a8.pdf.layout.txt-       Sak:    Økonomisk støtte - tilskudd 2016
+./politi-agder-politidistrikt/postliste_siste_10_år/2021-07-15_131212 - IN - att 3-9f7cf80f545b34ca035258bc2306d3a8.pdf.layout.txt:       Dok:    Søknad om støtte til deltakelse på NNPF's Utdanningskonferanse 2016
+./politi-agder-politidistrikt/postliste_siste_10_år/2021-07-15_131212 - IN - att 3-9f7cf80f545b34ca035258bc2306d3a8.pdf.layout.txt-               Saksansv: A-1 / ADMIS                          Saksbeh: A-1 / PERSONAL
+./politi-agder-politidistrikt/postliste_siste_10_år/2021-07-15_131212 - IN - att 3-9f7cf80f545b34ca035258bc2306d3a8.pdf.layout.txt-
+./politi-agder-politidistrikt/postliste_siste_10_år/2021-07-15_131212 - IN - att 3-9f7cf80f545b34ca035258bc2306d3a8.pdf.layout.txt-2016/02237-1
+./politi-agder-politidistrikt/postliste_siste_10_år/2021-07-15_131212 - IN - att 3-9f7cf80f545b34ca035258bc2306d3a8.pdf.layout.txt-               Dok.dato: 06052016
+--
+./politi-agder-politidistrikt/postliste_siste_10_år/2021-07-15_132200 - IN - att 2-acf0d170fa11731e4045c48d3286a062.pdf.layout.txt-                Jour.dato: 07112017
+./politi-agder-politidistrikt/postliste_siste_10_år/2021-07-15_132200 - IN - att 2-acf0d170fa11731e4045c48d3286a062.pdf.layout.txt-                Grad: UO 5 Par.: Offl. 13.1 jf fvl 13.1.1
+./politi-agder-politidistrikt/postliste_siste_10_år/2021-07-15_132200 - IN - att 2-acf0d170fa11731e4045c48d3286a062.pdf.layout.txt-I      Fra:     Avskjermet
+./politi-agder-politidistrikt/postliste_siste_10_år/2021-07-15_132200 - IN - att 2-acf0d170fa11731e4045c48d3286a062.pdf.layout.txt-       Sak:     Personalmappe - Avskjermet
+./politi-agder-politidistrikt/postliste_siste_10_år/2021-07-15_132200 - IN - att 2-acf0d170fa11731e4045c48d3286a062.pdf.layout.txt:       Dok:     Bekreftelse på NNPF-konferanser til personalmappe
+./politi-agder-politidistrikt/postliste_siste_10_år/2021-07-15_132200 - IN - att 2-acf0d170fa11731e4045c48d3286a062.pdf.layout.txt-                Saksansv: SHR_HMS / HR                        Saksbeh: SHR_HMS / HR
+./politi-agder-politidistrikt/postliste_siste_10_år/2021-07-15_132200 - IN - att 2-acf0d170fa11731e4045c48d3286a062.pdf.layout.txt-
+./politi-agder-politidistrikt/postliste_siste_10_år/2021-07-15_132200 - IN - att 2-acf0d170fa11731e4045c48d3286a062.pdf.layout.txt-2013/00453-24
+./politi-agder-politidistrikt/postliste_siste_10_år/2021-07-15_132200 - IN - att 2-acf0d170fa11731e4045c48d3286a062.pdf.layout.txt-                Dok.dato: 06112017
+--
+./politi-agder-politidistrikt/postliste_siste_10_år/2021-07-15_131527 - IN - att 4-1612512cda68127a47f820683abc370e.pdf.layout.txt-                Jour.dato: 14112016
+./politi-agder-politidistrikt/postliste_siste_10_år/2021-07-15_131527 - IN - att 4-1612512cda68127a47f820683abc370e.pdf.layout.txt-                Grad: UO 5 Par.: Offl. 13.1 jf fvl 13.1.1
+./politi-agder-politidistrikt/postliste_siste_10_år/2021-07-15_131527 - IN - att 4-1612512cda68127a47f820683abc370e.pdf.layout.txt-I      Fra:     Avskjermet
+./politi-agder-politidistrikt/postliste_siste_10_år/2021-07-15_131527 - IN - att 4-1612512cda68127a47f820683abc370e.pdf.layout.txt-       Sak:     Personalmappe - Avskjermet
+./politi-agder-politidistrikt/postliste_siste_10_år/2021-07-15_131527 - IN - att 4-1612512cda68127a47f820683abc370e.pdf.layout.txt:       Dok:     Kursbevis NNPF 2016
+./politi-agder-politidistrikt/postliste_siste_10_år/2021-07-15_131527 - IN - att 4-1612512cda68127a47f820683abc370e.pdf.layout.txt-                Saksansv: A-1 / PERSONAL                       Saksbeh: SHR_HMS / HR
+./politi-agder-politidistrikt/postliste_siste_10_år/2021-07-15_131527 - IN - att 4-1612512cda68127a47f820683abc370e.pdf.layout.txt-
+./politi-agder-politidistrikt/postliste_siste_10_år/2021-07-15_131527 - IN - att 4-1612512cda68127a47f820683abc370e.pdf.layout.txt-2013/00493-22
+./politi-agder-politidistrikt/postliste_siste_10_år/2021-07-15_131527 - IN - att 4-1612512cda68127a47f820683abc370e.pdf.layout.txt-                Dok.dato: 14112016
+--
+./politi-agder-politidistrikt/postliste_siste_10_år/2021-07-15_125524 - IN - att 2-0357939badefb966b69ef21ffda8bbb4.pdf.layout.txt-2014/00456-1
+./politi-agder-politidistrikt/postliste_siste_10_år/2021-07-15_125524 - IN - att 2-0357939badefb966b69ef21ffda8bbb4.pdf.layout.txt-               Dok.dato: 07022014                              Grad: U 0      Par.:
+./politi-agder-politidistrikt/postliste_siste_10_år/2021-07-15_125524 - IN - att 2-0357939badefb966b69ef21ffda8bbb4.pdf.layout.txt-               Jour.dato: 07022014
+./politi-agder-politidistrikt/postliste_siste_10_år/2021-07-15_125524 - IN - att 2-0357939badefb966b69ef21ffda8bbb4.pdf.layout.txt-
+./politi-agder-politidistrikt/postliste_siste_10_år/2021-07-15_125524 - IN - att 2-0357939badefb966b69ef21ffda8bbb4.pdf.layout.txt:I      Fra:    NNPF
+./politi-agder-politidistrikt/postliste_siste_10_år/2021-07-15_125524 - IN - att 2-0357939badefb966b69ef21ffda8bbb4.pdf.layout.txt-       Sak:    Økonomisk støtte - tilskudd 2014
+./politi-agder-politidistrikt/postliste_siste_10_år/2021-07-15_125524 - IN - att 2-0357939badefb966b69ef21ffda8bbb4.pdf.layout.txt:       Dok:    Søknad om støtte til deltakelse på NNPFS utdanningskonferanse 2014
+./politi-agder-politidistrikt/postliste_siste_10_år/2021-07-15_125524 - IN - att 2-0357939badefb966b69ef21ffda8bbb4.pdf.layout.txt-               Saksansv: A-1 / ADMIS                         Saksbeh: A-1
+./politi-agder-politidistrikt/postliste_siste_10_år/2021-07-15_125524 - IN - att 2-0357939badefb966b69ef21ffda8bbb4.pdf.layout.txt-2014/00457-1
+./politi-agder-politidistrikt/postliste_siste_10_år/2021-07-15_125524 - IN - att 2-0357939badefb966b69ef21ffda8bbb4.pdf.layout.txt-               Dok.dato: 30012014                              Grad: UO 2     Par.: Offl. 13.1 jf fvl
+./politi-agder-politidistrikt/postliste_siste_10_år/2021-07-15_125524 - IN - att 2-0357939badefb966b69ef21ffda8bbb4.pdf.layout.txt-                                                                                    13.1.1
+--
+./politi-ost-politidistrikt/postliste_siste_10_år/2021-07-20_104632 - IN - att 47-f1c757002d42394a28c86fa7a385dd73.pdf.layout.txt-               Dok.dato: 08032015
+./politi-ost-politidistrikt/postliste_siste_10_år/2021-07-20_104632 - IN - att 47-f1c757002d42394a28c86fa7a385dd73.pdf.layout.txt-               Jour.dato: 09032015
+./politi-ost-politidistrikt/postliste_siste_10_år/2021-07-20_104632 - IN - att 47-f1c757002d42394a28c86fa7a385dd73.pdf.layout.txt-               Grad: U 0 Par.:
+./politi-ost-politidistrikt/postliste_siste_10_år/2021-07-20_104632 - IN - att 47-f1c757002d42394a28c86fa7a385dd73.pdf.layout.txt-I      Fra:    Erik Stordal v/Motgift
+./politi-ost-politidistrikt/postliste_siste_10_år/2021-07-20_104632 - IN - att 47-f1c757002d42394a28c86fa7a385dd73.pdf.layout.txt:       Sak:    Informasjon - Motgift, NNPFs medlemsblad
+./politi-ost-politidistrikt/postliste_siste_10_år/2021-07-20_104632 - IN - att 47-f1c757002d42394a28c86fa7a385dd73.pdf.layout.txt:       Dok:    Anmodning om kontaktperson på Gardermoen - Motgift, NNPFs medlemsblad
+./politi-ost-politidistrikt/postliste_siste_10_år/2021-07-20_104632 - IN - att 47-f1c757002d42394a28c86fa7a385dd73.pdf.layout.txt-               Saksansv: 411 / 4110                           Saksbeh: 411 / 4110
+./politi-ost-politidistrikt/postliste_siste_10_år/2021-07-20_104632 - IN - att 47-f1c757002d42394a28c86fa7a385dd73.pdf.layout.txt-
+./politi-ost-politidistrikt/postliste_siste_10_år/2021-07-20_104632 - IN - att 47-f1c757002d42394a28c86fa7a385dd73.pdf.layout.txt-
+./politi-ost-politidistrikt/postliste_siste_10_år/2021-07-20_104632 - IN - att 47-f1c757002d42394a28c86fa7a385dd73.pdf.layout.txt-
+--
+./politi-ost-politidistrikt/postliste_siste_10_år/2021-07-20_110240 - IN - att 9-056073ff5c50962a81b657bd8ae5d78a.pdf.layout.txt-               Jour.dato: 13052016
+./politi-ost-politidistrikt/postliste_siste_10_år/2021-07-20_110240 - IN - att 9-056073ff5c50962a81b657bd8ae5d78a.pdf.layout.txt-               Grad: U 0 Par.:
+./politi-ost-politidistrikt/postliste_siste_10_år/2021-07-20_110240 - IN - att 9-056073ff5c50962a81b657bd8ae5d78a.pdf.layout.txt-I      Fra:    Politidirektoratet
+./politi-ost-politidistrikt/postliste_siste_10_år/2021-07-20_110240 - IN - att 9-056073ff5c50962a81b657bd8ae5d78a.pdf.layout.txt-       Sak:    Tilbud om kompetanseheving innen dopingkriminalitet - Norsk Narkotikapolitiforening
+./politi-ost-politidistrikt/postliste_siste_10_år/2021-07-20_110240 - IN - att 9-056073ff5c50962a81b657bd8ae5d78a.pdf.layout.txt:               NNPF
+./politi-ost-politidistrikt/postliste_siste_10_år/2021-07-20_110240 - IN - att 9-056073ff5c50962a81b657bd8ae5d78a.pdf.layout.txt-       Dok:    Tilbud om kompetanseheving innen dopingkriminalitet - Norsk Narkotikapolitiforening
+./politi-ost-politidistrikt/postliste_siste_10_år/2021-07-20_110240 - IN - att 9-056073ff5c50962a81b657bd8ae5d78a.pdf.layout.txt:               NNPF
+./politi-ost-politidistrikt/postliste_siste_10_år/2021-07-20_110240 - IN - att 9-056073ff5c50962a81b657bd8ae5d78a.pdf.layout.txt-               Saksansv: 12 / 120                            Saksbeh: 12 / 120
+./politi-ost-politidistrikt/postliste_siste_10_år/2021-07-20_110240 - IN - att 9-056073ff5c50962a81b657bd8ae5d78a.pdf.layout.txt-
+./politi-ost-politidistrikt/postliste_siste_10_år/2021-07-20_110240 - IN - att 9-056073ff5c50962a81b657bd8ae5d78a.pdf.layout.txt-2016/02556-1
+./politi-ost-politidistrikt/postliste_siste_10_år/2021-07-20_110240 - IN - att 9-056073ff5c50962a81b657bd8ae5d78a.pdf.layout.txt-               Dok.dato: 13052016
+--
+./politi-ost-politidistrikt/postliste_siste_10_år/2021-07-20_101028 - IN - att 20-900ad260317a931ae6578d4687178612.pdf.layout.txt-               Dok.dato: 01072013                             Grad: UO 5    Par.: Offl. 13.1 jf fvl 13.1.1
+./politi-ost-politidistrikt/postliste_siste_10_år/2021-07-20_101028 - IN - att 20-900ad260317a931ae6578d4687178612.pdf.layout.txt-               Jour.dato: 26072013
+./politi-ost-politidistrikt/postliste_siste_10_år/2021-07-20_101028 - IN - att 20-900ad260317a931ae6578d4687178612.pdf.layout.txt-I      Fra:    Avskjermet
+./politi-ost-politidistrikt/postliste_siste_10_år/2021-07-20_101028 - IN - att 20-900ad260317a931ae6578d4687178612.pdf.layout.txt-       Sak:    Norsk Narkotikapolitiforenings utdanningskonferanse 2013
+./politi-ost-politidistrikt/postliste_siste_10_år/2021-07-20_101028 - IN - att 20-900ad260317a931ae6578d4687178612.pdf.layout.txt:       Dok:    Søknad om støtte til deltagelse på NNPF utdanningskonferanse 2013 - Avskjermet
+./politi-ost-politidistrikt/postliste_siste_10_år/2021-07-20_101028 - IN - att 20-900ad260317a931ae6578d4687178612.pdf.layout.txt-               Saksansv: 12 / 120                           Saksbeh: 12 / 120
+./politi-ost-politidistrikt/postliste_siste_10_år/2021-07-20_101028 - IN - att 20-900ad260317a931ae6578d4687178612.pdf.layout.txt-
+./politi-ost-politidistrikt/postliste_siste_10_år/2021-07-20_101028 - IN - att 20-900ad260317a931ae6578d4687178612.pdf.layout.txt-
+./politi-ost-politidistrikt/postliste_siste_10_år/2021-07-20_101028 - IN - att 20-900ad260317a931ae6578d4687178612.pdf.layout.txt-2013/03474-1
+--
+./politi-innlandet-politidistrikt/postliste_siste_10_år/2021-07-14_091513 - IN - att 24-964ce9f1f8c01770e0318501729531ae.pdf.layout.txt-                Grad: U 0 Par.:
+./politi-innlandet-politidistrikt/postliste_siste_10_år/2021-07-14_091513 - IN - att 24-964ce9f1f8c01770e0318501729531ae.pdf.layout.txt-I      Fra:     Ola Selvik
+./politi-innlandet-politidistrikt/postliste_siste_10_år/2021-07-14_091513 - IN - att 24-964ce9f1f8c01770e0318501729531ae.pdf.layout.txt-       Sak:     Begjæring om innsyn - Norsk Narkotikapolitiforening - Øyvind Buraas sin epost - Ola
+./politi-innlandet-politidistrikt/postliste_siste_10_år/2021-07-14_091513 - IN - att 24-964ce9f1f8c01770e0318501729531ae.pdf.layout.txt-                Selvik
+./politi-innlandet-politidistrikt/postliste_siste_10_år/2021-07-14_091513 - IN - att 24-964ce9f1f8c01770e0318501729531ae.pdf.layout.txt:       Dok:     Begjæring om innsyn - kommunikasjon med Norsk Narkotikapolitiforening (NNPF) -
+./politi-innlandet-politidistrikt/postliste_siste_10_år/2021-07-14_091513 - IN - att 24-964ce9f1f8c01770e0318501729531ae.pdf.layout.txt-                Ola Selvik
+./politi-innlandet-politidistrikt/postliste_siste_10_år/2021-07-14_091513 - IN - att 24-964ce9f1f8c01770e0318501729531ae.pdf.layout.txt-                Saksansv: PM_VPM / PM-VPM                    Saksbeh: SKOM / KOM
+./politi-innlandet-politidistrikt/postliste_siste_10_år/2021-07-14_091513 - IN - att 24-964ce9f1f8c01770e0318501729531ae.pdf.layout.txt-
+./politi-innlandet-politidistrikt/postliste_siste_10_år/2021-07-14_091513 - IN - att 24-964ce9f1f8c01770e0318501729531ae.pdf.layout.txt-2017/04130-3
+--
+./politi-innlandet-politidistrikt/postliste_siste_10_år/2021-07-14_091513 - IN - att 24-964ce9f1f8c01770e0318501729531ae.pdf.layout.txt-U      Til:     Ola Selvik
+./politi-innlandet-politidistrikt/postliste_siste_10_år/2021-07-14_091513 - IN - att 24-964ce9f1f8c01770e0318501729531ae.pdf.layout.txt-       Sak:     Begjæring om innsyn - Norsk Narkotikapolitiforening - Øyvind Buraas sin epost - Ola
+./politi-innlandet-politidistrikt/postliste_siste_10_år/2021-07-14_091513 - IN - att 24-964ce9f1f8c01770e0318501729531ae.pdf.layout.txt-                Selvik
+./politi-innlandet-politidistrikt/postliste_siste_10_år/2021-07-14_091513 - IN - att 24-964ce9f1f8c01770e0318501729531ae.pdf.layout.txt-       Dok:     Avslag på begjæring om innsyn - kommunikasjon med Norsk Narkotikapolitiforening
+./politi-innlandet-politidistrikt/postliste_siste_10_år/2021-07-14_091513 - IN - att 24-964ce9f1f8c01770e0318501729531ae.pdf.layout.txt:                (NNPF) - Ola Selvik
+./politi-innlandet-politidistrikt/postliste_siste_10_år/2021-07-14_091513 - IN - att 24-964ce9f1f8c01770e0318501729531ae.pdf.layout.txt-                Saksansv: PM_VPM / PM-VPM                    Saksbeh: SKOM / KOM
+./politi-innlandet-politidistrikt/postliste_siste_10_år/2021-07-14_091513 - IN - att 24-964ce9f1f8c01770e0318501729531ae.pdf.layout.txt-
+./politi-innlandet-politidistrikt/postliste_siste_10_år/2021-07-14_091513 - IN - att 24-964ce9f1f8c01770e0318501729531ae.pdf.layout.txt-
+./politi-innlandet-politidistrikt/postliste_siste_10_år/2021-07-14_091513 - IN - att 24-964ce9f1f8c01770e0318501729531ae.pdf.layout.txt-

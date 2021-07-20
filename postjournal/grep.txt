@@ -1,0 +1,466 @@
+grep -R -i --include=*layout.txt "narko.*forening" -A4 -B4 .
+
+
+./politi-agder-politidistrikt/postliste_siste_10_år/2021-07-15_134109 - IN - att 5-4f118b1d102666fc74fbb6d04319b7f1.pdf.layout.txt-              SakID/Tittel        20/31315 Beredskap i tilknytning til utbrudd av Koronavirus Covid-19
+./politi-agder-politidistrikt/postliste_siste_10_år/2021-07-15_134109 - IN - att 5-4f118b1d102666fc74fbb6d04319b7f1.pdf.layout.txt-
+./politi-agder-politidistrikt/postliste_siste_10_år/2021-07-15_134109 - IN - att 5-4f118b1d102666fc74fbb6d04319b7f1.pdf.layout.txt-                JournalpostID        20/109519             Dokumenttype        Inngående brev          Dokumentets dato 12.03.2020
+./politi-agder-politidistrikt/postliste_siste_10_år/2021-07-15_134109 - IN - att 5-4f118b1d102666fc74fbb6d04319b7f1.pdf.layout.txt-                Skjerming jp                               Paragraf jp                                 Journaldato      12.03.2020
+./politi-agder-politidistrikt/postliste_siste_10_år/2021-07-15_134109 - IN - att 5-4f118b1d102666fc74fbb6d04319b7f1.pdf.layout.txt:                Avsender             Norsk Narkotikapolitiforening
+./politi-agder-politidistrikt/postliste_siste_10_år/2021-07-15_134109 - IN - att 5-4f118b1d102666fc74fbb6d04319b7f1.pdf.layout.txt-
+./politi-agder-politidistrikt/postliste_siste_10_år/2021-07-15_134109 - IN - att 5-4f118b1d102666fc74fbb6d04319b7f1.pdf.layout.txt-
+./politi-agder-politidistrikt/postliste_siste_10_år/2021-07-15_134109 - IN - att 5-4f118b1d102666fc74fbb6d04319b7f1.pdf.layout.txt-
+./politi-agder-politidistrikt/postliste_siste_10_år/2021-07-15_134109 - IN - att 5-4f118b1d102666fc74fbb6d04319b7f1.pdf.layout.txt-   20/31315-7 Koronasmitte - samarbeid mellom politi, domstol og kriminalomsorg
+--
+./politi-agder-politidistrikt/postliste_siste_10_år/2021-07-15_134540 - IN - att 2-241c94f32808ab0466e92f8bf3df2d5c.pdf.layout.txt-              SakID/Tittel                    20/107693 Stipend NNPF
+./politi-agder-politidistrikt/postliste_siste_10_år/2021-07-15_134540 - IN - att 2-241c94f32808ab0466e92f8bf3df2d5c.pdf.layout.txt-
+./politi-agder-politidistrikt/postliste_siste_10_år/2021-07-15_134540 - IN - att 2-241c94f32808ab0466e92f8bf3df2d5c.pdf.layout.txt-                  JournalpostID               20/357194             Dokumenttype    Inngående brev      Dokumentets dato 04.09.2020
+./politi-agder-politidistrikt/postliste_siste_10_år/2021-07-15_134540 - IN - att 2-241c94f32808ab0466e92f8bf3df2d5c.pdf.layout.txt-                  Skjerming jp                                      Paragraf jp                         Journaldato      04.09.2020
+./politi-agder-politidistrikt/postliste_siste_10_år/2021-07-15_134540 - IN - att 2-241c94f32808ab0466e92f8bf3df2d5c.pdf.layout.txt:                  Avsender                    Norsk Narkotikapolitiforening
+./politi-agder-politidistrikt/postliste_siste_10_år/2021-07-15_134540 - IN - att 2-241c94f32808ab0466e92f8bf3df2d5c.pdf.layout.txt-Offentlig journal
+./politi-agder-politidistrikt/postliste_siste_10_år/2021-07-15_134540 - IN - att 2-241c94f32808ab0466e92f8bf3df2d5c.pdf.layout.txt-           Periode:    03.09.2020 - 04.09.2020
+./politi-agder-politidistrikt/postliste_siste_10_år/2021-07-15_134540 - IN - att 2-241c94f32808ab0466e92f8bf3df2d5c.pdf.layout.txt- Ant. journalposter:   220
+./politi-agder-politidistrikt/postliste_siste_10_år/2021-07-15_134540 - IN - att 2-241c94f32808ab0466e92f8bf3df2d5c.pdf.layout.txt-   Kvalitetssikring:   Kun kvalitetssikrede
+--
+./politi-agder-politidistrikt/postliste_siste_10_år/2021-07-15_134508 - IN - att 10-113f0dce6fa31204828da7e6e09836a8.pdf.layout.txt-              SakID/Tittel      20/107693 Stipend NNPF
+./politi-agder-politidistrikt/postliste_siste_10_år/2021-07-15_134508 - IN - att 10-113f0dce6fa31204828da7e6e09836a8.pdf.layout.txt-
+./politi-agder-politidistrikt/postliste_siste_10_år/2021-07-15_134508 - IN - att 10-113f0dce6fa31204828da7e6e09836a8.pdf.layout.txt-               JournalpostID        20/349616             Dokumenttype       Inngående brev        Dokumentets dato 31.08.2020
+./politi-agder-politidistrikt/postliste_siste_10_år/2021-07-15_134508 - IN - att 10-113f0dce6fa31204828da7e6e09836a8.pdf.layout.txt-               Skjerming jp                               Paragraf jp                              Journaldato      31.08.2020
+./politi-agder-politidistrikt/postliste_siste_10_år/2021-07-15_134508 - IN - att 10-113f0dce6fa31204828da7e6e09836a8.pdf.layout.txt:               Avsender             Norsk Narkotikapolitiforening
+./politi-agder-politidistrikt/postliste_siste_10_år/2021-07-15_134508 - IN - att 10-113f0dce6fa31204828da7e6e09836a8.pdf.layout.txt-
+./politi-agder-politidistrikt/postliste_siste_10_år/2021-07-15_134508 - IN - att 10-113f0dce6fa31204828da7e6e09836a8.pdf.layout.txt-
+./politi-agder-politidistrikt/postliste_siste_10_år/2021-07-15_134508 - IN - att 10-113f0dce6fa31204828da7e6e09836a8.pdf.layout.txt-
+./politi-agder-politidistrikt/postliste_siste_10_år/2021-07-15_134508 - IN - att 10-113f0dce6fa31204828da7e6e09836a8.pdf.layout.txt-   20/52939-3 Innvilget søknad om salgsbevilling - Lokalbrygg AS
+--
+./politi-agder-politidistrikt/postliste_siste_10_år/2021-07-15_132131 - IN - att 9-d28dfa57d2aa16b981ec6866f1429ed8.pdf.layout.txt-                Jour.dato: 31102017
+./politi-agder-politidistrikt/postliste_siste_10_år/2021-07-15_132131 - IN - att 9-d28dfa57d2aa16b981ec6866f1429ed8.pdf.layout.txt-                Grad: UO 5 Par.: Offl. 13.1 jf fvl 13.1.1
+./politi-agder-politidistrikt/postliste_siste_10_år/2021-07-15_132131 - IN - att 9-d28dfa57d2aa16b981ec6866f1429ed8.pdf.layout.txt-I      Fra:     Avskjermet
+./politi-agder-politidistrikt/postliste_siste_10_år/2021-07-15_132131 - IN - att 9-d28dfa57d2aa16b981ec6866f1429ed8.pdf.layout.txt-       Sak:     Personalmappe - Avskjermet
+./politi-agder-politidistrikt/postliste_siste_10_år/2021-07-15_132131 - IN - att 9-d28dfa57d2aa16b981ec6866f1429ed8.pdf.layout.txt:       Dok:     Kursbevis Norsk Narkotika Politiforening 27. utdanningskonferanse - Avskjermet
+./politi-agder-politidistrikt/postliste_siste_10_år/2021-07-15_132131 - IN - att 9-d28dfa57d2aa16b981ec6866f1429ed8.pdf.layout.txt-                Saksansv: SHR_HMS / HR                      Saksbeh: SHR_HMS / HR
+./politi-agder-politidistrikt/postliste_siste_10_år/2021-07-15_132131 - IN - att 9-d28dfa57d2aa16b981ec6866f1429ed8.pdf.layout.txt-
+./politi-agder-politidistrikt/postliste_siste_10_år/2021-07-15_132131 - IN - att 9-d28dfa57d2aa16b981ec6866f1429ed8.pdf.layout.txt-
+./politi-agder-politidistrikt/postliste_siste_10_år/2021-07-15_132131 - IN - att 9-d28dfa57d2aa16b981ec6866f1429ed8.pdf.layout.txt-
+--
+./politi-agder-politidistrikt/postliste_siste_10_år/2021-07-15_130415 - IN - att 8-168f3c182195b99210b08552878614f3.pdf.layout.txt-               Dok.dato: 27032015
+./politi-agder-politidistrikt/postliste_siste_10_år/2021-07-15_130415 - IN - att 8-168f3c182195b99210b08552878614f3.pdf.layout.txt-               Jour.dato: 30032015
+./politi-agder-politidistrikt/postliste_siste_10_år/2021-07-15_130415 - IN - att 8-168f3c182195b99210b08552878614f3.pdf.layout.txt-               Grad: U 0 Par.:
+./politi-agder-politidistrikt/postliste_siste_10_år/2021-07-15_130415 - IN - att 8-168f3c182195b99210b08552878614f3.pdf.layout.txt-I       Fra:   Politidirektoratet
+./politi-agder-politidistrikt/postliste_siste_10_år/2021-07-15_130415 - IN - att 8-168f3c182195b99210b08552878614f3.pdf.layout.txt:        Sak:   Norsk Narkotikapolitiforening instruktørressurser
+./politi-agder-politidistrikt/postliste_siste_10_år/2021-07-15_130415 - IN - att 8-168f3c182195b99210b08552878614f3.pdf.layout.txt-                                              -
+./politi-agder-politidistrikt/postliste_siste_10_år/2021-07-15_130415 - IN - att 8-168f3c182195b99210b08552878614f3.pdf.layout.txt-
+./politi-agder-politidistrikt/postliste_siste_10_år/2021-07-15_130415 - IN - att 8-168f3c182195b99210b08552878614f3.pdf.layout.txt-
+./politi-agder-politidistrikt/postliste_siste_10_år/2021-07-15_130415 - IN - att 8-168f3c182195b99210b08552878614f3.pdf.layout.txt-
+./politi-agder-politidistrikt/postliste_siste_10_år/2021-07-15_130415 - IN - att 8-168f3c182195b99210b08552878614f3.pdf.layout.txt-
+./politi-agder-politidistrikt/postliste_siste_10_år/2021-07-15_130415 - IN - att 8-168f3c182195b99210b08552878614f3.pdf.layout.txt:        Dok:   Norsk Narkotikapolitiforening ønske om instruktørressurser
+./politi-agder-politidistrikt/postliste_siste_10_år/2021-07-15_130415 - IN - att 8-168f3c182195b99210b08552878614f3.pdf.layout.txt-                                              -
+./politi-agder-politidistrikt/postliste_siste_10_år/2021-07-15_130415 - IN - att 8-168f3c182195b99210b08552878614f3.pdf.layout.txt-
+./politi-agder-politidistrikt/postliste_siste_10_år/2021-07-15_130415 - IN - att 8-168f3c182195b99210b08552878614f3.pdf.layout.txt-
+./politi-agder-politidistrikt/postliste_siste_10_år/2021-07-15_130415 - IN - att 8-168f3c182195b99210b08552878614f3.pdf.layout.txt-
+--
+./politi-agder-politidistrikt/postliste_siste_10_år/2021-07-15_134411 - IN - att 7-1727a7945911b3678a44dcc54be181e9.pdf.layout.txt-
+./politi-agder-politidistrikt/postliste_siste_10_år/2021-07-15_134411 - IN - att 7-1727a7945911b3678a44dcc54be181e9.pdf.layout.txt-
+./politi-agder-politidistrikt/postliste_siste_10_år/2021-07-15_134411 - IN - att 7-1727a7945911b3678a44dcc54be181e9.pdf.layout.txt-
+./politi-agder-politidistrikt/postliste_siste_10_år/2021-07-15_134411 - IN - att 7-1727a7945911b3678a44dcc54be181e9.pdf.layout.txt-   20/91997-1 Utdanningskonferansen 2020 - avlyst
+./politi-agder-politidistrikt/postliste_siste_10_år/2021-07-15_134411 - IN - att 7-1727a7945911b3678a44dcc54be181e9.pdf.layout.txt:              SakID/Tittel      20/91997 Utdanningskonferanse 2020 - Norsk Narkotikapolitiforening
+./politi-agder-politidistrikt/postliste_siste_10_år/2021-07-15_134411 - IN - att 7-1727a7945911b3678a44dcc54be181e9.pdf.layout.txt-
+./politi-agder-politidistrikt/postliste_siste_10_år/2021-07-15_134411 - IN - att 7-1727a7945911b3678a44dcc54be181e9.pdf.layout.txt-                JournalpostID       20/295171           Dokumenttype           Inngående brev        Dokumentets dato 20.07.2020
+./politi-agder-politidistrikt/postliste_siste_10_år/2021-07-15_134411 - IN - att 7-1727a7945911b3678a44dcc54be181e9.pdf.layout.txt-                Skjerming jp                            Paragraf jp                                  Journaldato      20.07.2020
+./politi-agder-politidistrikt/postliste_siste_10_år/2021-07-15_134411 - IN - att 7-1727a7945911b3678a44dcc54be181e9.pdf.layout.txt:                Avsender            StyreWeb - Norsk Narkotikapolitiforening
+./politi-agder-politidistrikt/postliste_siste_10_år/2021-07-15_134411 - IN - att 7-1727a7945911b3678a44dcc54be181e9.pdf.layout.txt-
+./politi-agder-politidistrikt/postliste_siste_10_år/2021-07-15_134411 - IN - att 7-1727a7945911b3678a44dcc54be181e9.pdf.layout.txt-
+./politi-agder-politidistrikt/postliste_siste_10_år/2021-07-15_134411 - IN - att 7-1727a7945911b3678a44dcc54be181e9.pdf.layout.txt-
+./politi-agder-politidistrikt/postliste_siste_10_år/2021-07-15_134411 - IN - att 7-1727a7945911b3678a44dcc54be181e9.pdf.layout.txt-   20/91143-2 Bekreftelse på mottatt bekymringsmelding til barnevernet fra offentlig innstans
+--
+./politi-agder-politidistrikt/postliste_siste_10_år/2021-07-15_132347 - IN - att 8-7705890ba35e75b0db0b5f5805266d49.pdf.layout.txt-                Jour.dato: 27022018
+./politi-agder-politidistrikt/postliste_siste_10_år/2021-07-15_132347 - IN - att 8-7705890ba35e75b0db0b5f5805266d49.pdf.layout.txt-                Grad: UO 5 Par.: Offl. 13.1 jf fvl 13.1.1
+./politi-agder-politidistrikt/postliste_siste_10_år/2021-07-15_132347 - IN - att 8-7705890ba35e75b0db0b5f5805266d49.pdf.layout.txt-I      Fra:     Avskjermet
+./politi-agder-politidistrikt/postliste_siste_10_år/2021-07-15_132347 - IN - att 8-7705890ba35e75b0db0b5f5805266d49.pdf.layout.txt-       Sak:     Personalmappe - Avskjermet
+./politi-agder-politidistrikt/postliste_siste_10_år/2021-07-15_132347 - IN - att 8-7705890ba35e75b0db0b5f5805266d49.pdf.layout.txt:       Dok:     Deltakerbevis Norsk Narkotikaforenings utdanningskonferanse - Avskjermet
+./politi-agder-politidistrikt/postliste_siste_10_år/2021-07-15_132347 - IN - att 8-7705890ba35e75b0db0b5f5805266d49.pdf.layout.txt-                Saksansv: SHR_HMS / HR                      Saksbeh: SHR_HMS / HR
+./politi-agder-politidistrikt/postliste_siste_10_år/2021-07-15_132347 - IN - att 8-7705890ba35e75b0db0b5f5805266d49.pdf.layout.txt-
+./politi-agder-politidistrikt/postliste_siste_10_år/2021-07-15_132347 - IN - att 8-7705890ba35e75b0db0b5f5805266d49.pdf.layout.txt-
+./politi-agder-politidistrikt/postliste_siste_10_år/2021-07-15_132347 - IN - att 8-7705890ba35e75b0db0b5f5805266d49.pdf.layout.txt-
+--
+./politi-agder-politidistrikt/postliste_siste_10_år/2021-07-15_132859 - IN - att 6-82dc9671f400c728fa8754dd224891f8.pdf.layout.txt-                Jour.dato: 21112018
+./politi-agder-politidistrikt/postliste_siste_10_år/2021-07-15_132859 - IN - att 6-82dc9671f400c728fa8754dd224891f8.pdf.layout.txt-                Grad: UO 5 Par.: Offl. 13.1 jf fvl 13.1.1
+./politi-agder-politidistrikt/postliste_siste_10_år/2021-07-15_132859 - IN - att 6-82dc9671f400c728fa8754dd224891f8.pdf.layout.txt-I      Fra:     Avskjermet
+./politi-agder-politidistrikt/postliste_siste_10_år/2021-07-15_132859 - IN - att 6-82dc9671f400c728fa8754dd224891f8.pdf.layout.txt-       Sak:     Personalmappe - Avskjermet
+./politi-agder-politidistrikt/postliste_siste_10_år/2021-07-15_132859 - IN - att 6-82dc9671f400c728fa8754dd224891f8.pdf.layout.txt:       Dok:     Kursbevis - Narkotikapolitiforenings 28. utdanningskonferanse - Politiarbeid på stedet
+./politi-agder-politidistrikt/postliste_siste_10_år/2021-07-15_132859 - IN - att 6-82dc9671f400c728fa8754dd224891f8.pdf.layout.txt-                - Praksisveileder - Avskjermet
+./politi-agder-politidistrikt/postliste_siste_10_år/2021-07-15_132859 - IN - att 6-82dc9671f400c728fa8754dd224891f8.pdf.layout.txt-                Saksansv: SHR_HMS / HR                         Saksbeh: SHR_HMS / HR
+./politi-agder-politidistrikt/postliste_siste_10_år/2021-07-15_132859 - IN - att 6-82dc9671f400c728fa8754dd224891f8.pdf.layout.txt-
+./politi-agder-politidistrikt/postliste_siste_10_år/2021-07-15_132859 - IN - att 6-82dc9671f400c728fa8754dd224891f8.pdf.layout.txt-
+--
+./politi-ost-politidistrikt/postliste_siste_10_år/2021-07-20_110735 - IN - att 10-f31e16b9daf1d6af499d2f1bd593b065.pdf.layout.txt-               Dok.dato: 11112016
+./politi-ost-politidistrikt/postliste_siste_10_år/2021-07-20_110735 - IN - att 10-f31e16b9daf1d6af499d2f1bd593b065.pdf.layout.txt-               Jour.dato: 14112016
+./politi-ost-politidistrikt/postliste_siste_10_år/2021-07-20_110735 - IN - att 10-f31e16b9daf1d6af499d2f1bd593b065.pdf.layout.txt-               Grad: UO 5 Par.: Offl. 13.1 jf fvl 13.1.1
+./politi-ost-politidistrikt/postliste_siste_10_år/2021-07-20_110735 - IN - att 10-f31e16b9daf1d6af499d2f1bd593b065.pdf.layout.txt-I      Fra:    Avskjermet
+./politi-ost-politidistrikt/postliste_siste_10_år/2021-07-20_110735 - IN - att 10-f31e16b9daf1d6af499d2f1bd593b065.pdf.layout.txt:       Sak:    Klage på bruken av Norsk Narkotikapolitiforening og rolleblanding - Avskjermet
+./politi-ost-politidistrikt/postliste_siste_10_år/2021-07-20_110735 - IN - att 10-f31e16b9daf1d6af499d2f1bd593b065.pdf.layout.txt:       Dok:    Klage på bruken av Norsk Narkotikapolitiforening og rolleblanding
+./politi-ost-politidistrikt/postliste_siste_10_år/2021-07-20_110735 - IN - att 10-f31e16b9daf1d6af499d2f1bd593b065.pdf.layout.txt-               Saksansv: 11 / 110                               Saksbeh: 11 / 110
+./politi-ost-politidistrikt/postliste_siste_10_år/2021-07-20_110735 - IN - att 10-f31e16b9daf1d6af499d2f1bd593b065.pdf.layout.txt-
+./politi-ost-politidistrikt/postliste_siste_10_år/2021-07-20_110735 - IN - att 10-f31e16b9daf1d6af499d2f1bd593b065.pdf.layout.txt-2016/05884-2
+./politi-ost-politidistrikt/postliste_siste_10_år/2021-07-20_110735 - IN - att 10-f31e16b9daf1d6af499d2f1bd593b065.pdf.layout.txt-               Dok.dato: 13112016
+./politi-ost-politidistrikt/postliste_siste_10_år/2021-07-20_110735 - IN - att 10-f31e16b9daf1d6af499d2f1bd593b065.pdf.layout.txt-               Jour.dato: 14112016
+./politi-ost-politidistrikt/postliste_siste_10_år/2021-07-20_110735 - IN - att 10-f31e16b9daf1d6af499d2f1bd593b065.pdf.layout.txt-               Grad: UO 5 Par.: Offl. 13.1 jf fvl 13.1.1
+./politi-ost-politidistrikt/postliste_siste_10_år/2021-07-20_110735 - IN - att 10-f31e16b9daf1d6af499d2f1bd593b065.pdf.layout.txt-I      Fra:    Avskjermet
+./politi-ost-politidistrikt/postliste_siste_10_år/2021-07-20_110735 - IN - att 10-f31e16b9daf1d6af499d2f1bd593b065.pdf.layout.txt:       Sak:    Klage på bruken av Norsk Narkotikapolitiforening og rolleblanding - Avskjermet
+./politi-ost-politidistrikt/postliste_siste_10_år/2021-07-20_110735 - IN - att 10-f31e16b9daf1d6af499d2f1bd593b065.pdf.layout.txt-       Dok:    Politidirektoratet sier deres ansatte har full ytringsfrihet om avkriminalisering og
+./politi-ost-politidistrikt/postliste_siste_10_år/2021-07-20_110735 - IN - att 10-f31e16b9daf1d6af499d2f1bd593b065.pdf.layout.txt-               legalisering av narkotika
+./politi-ost-politidistrikt/postliste_siste_10_år/2021-07-20_110735 - IN - att 10-f31e16b9daf1d6af499d2f1bd593b065.pdf.layout.txt-               Saksansv: 11 / 110                               Saksbeh: 11 / 110
+./politi-ost-politidistrikt/postliste_siste_10_år/2021-07-20_110735 - IN - att 10-f31e16b9daf1d6af499d2f1bd593b065.pdf.layout.txt-
+--
+./politi-ost-politidistrikt/postliste_siste_10_år/2021-07-20_103943 - IN - att 1-18516f5dadb81d18e74186e003f7d7fe.pdf.layout.txt-2015/04139-1
+./politi-ost-politidistrikt/postliste_siste_10_år/2021-07-20_103943 - IN - att 1-18516f5dadb81d18e74186e003f7d7fe.pdf.layout.txt-               Dok.dato: 20082015
+./politi-ost-politidistrikt/postliste_siste_10_år/2021-07-20_103943 - IN - att 1-18516f5dadb81d18e74186e003f7d7fe.pdf.layout.txt-               Jour.dato: 25082015
+./politi-ost-politidistrikt/postliste_siste_10_år/2021-07-20_103943 - IN - att 1-18516f5dadb81d18e74186e003f7d7fe.pdf.layout.txt-               Grad: U 0 Par.:
+./politi-ost-politidistrikt/postliste_siste_10_år/2021-07-20_103943 - IN - att 1-18516f5dadb81d18e74186e003f7d7fe.pdf.layout.txt:I      Fra:    Norsk narkotikapolitiforening Lokallag Østfold
+./politi-ost-politidistrikt/postliste_siste_10_år/2021-07-20_103943 - IN - att 1-18516f5dadb81d18e74186e003f7d7fe.pdf.layout.txt-       Sak:    Kampanje Bry deg Russ 2015 - Si nei til narkotika
+./politi-ost-politidistrikt/postliste_siste_10_år/2021-07-20_103943 - IN - att 1-18516f5dadb81d18e74186e003f7d7fe.pdf.layout.txt-       Dok:    Ber om møte i forbindelse med kampanje Bry deg Russ 2015 - Si nei til narkotika
+./politi-ost-politidistrikt/postliste_siste_10_år/2021-07-20_103943 - IN - att 1-18516f5dadb81d18e74186e003f7d7fe.pdf.layout.txt-               Saksansv: 180 / 183                             Saksbeh: 180 / 183
+./politi-ost-politidistrikt/postliste_siste_10_år/2021-07-20_103943 - IN - att 1-18516f5dadb81d18e74186e003f7d7fe.pdf.layout.txt-
+--
+./politi-ost-politidistrikt/postliste_siste_10_år/2021-07-20_103738 - IN - att 1-caa02a8391a76d51051f45186543b286.pdf.layout.txt-2013/04917-1
+./politi-ost-politidistrikt/postliste_siste_10_år/2021-07-20_103738 - IN - att 1-caa02a8391a76d51051f45186543b286.pdf.layout.txt-               Dok.dato: 20112013
+./politi-ost-politidistrikt/postliste_siste_10_år/2021-07-20_103738 - IN - att 1-caa02a8391a76d51051f45186543b286.pdf.layout.txt-               Jour.dato: 26112013
+./politi-ost-politidistrikt/postliste_siste_10_år/2021-07-20_103738 - IN - att 1-caa02a8391a76d51051f45186543b286.pdf.layout.txt-               Grad: U 0 Par.:
+./politi-ost-politidistrikt/postliste_siste_10_år/2021-07-20_103738 - IN - att 1-caa02a8391a76d51051f45186543b286.pdf.layout.txt:I      Fra:    Norsk Narkotikapolitiforening Østfold lokallag
+./politi-ost-politidistrikt/postliste_siste_10_år/2021-07-20_103738 - IN - att 1-caa02a8391a76d51051f45186543b286.pdf.layout.txt:       Sak:    Anmodning om godkjenning av Norsk Narkotikaforenings utdanningskonferanse som
+./politi-ost-politidistrikt/postliste_siste_10_år/2021-07-20_103738 - IN - att 1-caa02a8391a76d51051f45186543b286.pdf.layout.txt-               fagkurs
+./politi-ost-politidistrikt/postliste_siste_10_år/2021-07-20_103738 - IN - att 1-caa02a8391a76d51051f45186543b286.pdf.layout.txt:       Dok:    Anmodning om godkjenning av Norsk Narkotikapolitiforenings utdanningskonferanse
+./politi-ost-politidistrikt/postliste_siste_10_år/2021-07-20_103738 - IN - att 1-caa02a8391a76d51051f45186543b286.pdf.layout.txt-               som fagkurs
+./politi-ost-politidistrikt/postliste_siste_10_år/2021-07-20_103738 - IN - att 1-caa02a8391a76d51051f45186543b286.pdf.layout.txt-               Saksansv: 110 / 1100                         Saksbeh: 110 / 1100
+./politi-ost-politidistrikt/postliste_siste_10_år/2021-07-20_103738 - IN - att 1-caa02a8391a76d51051f45186543b286.pdf.layout.txt-
+./politi-ost-politidistrikt/postliste_siste_10_år/2021-07-20_103738 - IN - att 1-caa02a8391a76d51051f45186543b286.pdf.layout.txt-2013/04917-2
+./politi-ost-politidistrikt/postliste_siste_10_år/2021-07-20_103738 - IN - att 1-caa02a8391a76d51051f45186543b286.pdf.layout.txt-               Dok.dato: 26112013
+./politi-ost-politidistrikt/postliste_siste_10_år/2021-07-20_103738 - IN - att 1-caa02a8391a76d51051f45186543b286.pdf.layout.txt-               Jour.dato: 26112013
+./politi-ost-politidistrikt/postliste_siste_10_år/2021-07-20_103738 - IN - att 1-caa02a8391a76d51051f45186543b286.pdf.layout.txt-               Grad: U 0 Par.:
+./politi-ost-politidistrikt/postliste_siste_10_år/2021-07-20_103738 - IN - att 1-caa02a8391a76d51051f45186543b286.pdf.layout.txt:U      Til:    Norsk Narkotikapolitiforening Østfold lokallag
+./politi-ost-politidistrikt/postliste_siste_10_år/2021-07-20_103738 - IN - att 1-caa02a8391a76d51051f45186543b286.pdf.layout.txt:       Sak:    Anmodning om godkjenning av Norsk Narkotikaforenings utdanningskonferanse som
+./politi-ost-politidistrikt/postliste_siste_10_år/2021-07-20_103738 - IN - att 1-caa02a8391a76d51051f45186543b286.pdf.layout.txt-               fagkurs
+./politi-ost-politidistrikt/postliste_siste_10_år/2021-07-20_103738 - IN - att 1-caa02a8391a76d51051f45186543b286.pdf.layout.txt:       Dok:    Vedrørende anmodning om godkjenning av Norsk Narkotikapolitiforenings
+./politi-ost-politidistrikt/postliste_siste_10_år/2021-07-20_103738 - IN - att 1-caa02a8391a76d51051f45186543b286.pdf.layout.txt-               utdanningskonferanse som fagkurs
+./politi-ost-politidistrikt/postliste_siste_10_år/2021-07-20_103738 - IN - att 1-caa02a8391a76d51051f45186543b286.pdf.layout.txt-               Saksansv: 110 / 1100                         Saksbeh: 110 / 1100
+./politi-ost-politidistrikt/postliste_siste_10_år/2021-07-20_103738 - IN - att 1-caa02a8391a76d51051f45186543b286.pdf.layout.txt-
+./politi-ost-politidistrikt/postliste_siste_10_år/2021-07-20_103738 - IN - att 1-caa02a8391a76d51051f45186543b286.pdf.layout.txt-
+--
+./politi-ost-politidistrikt/postliste_siste_10_år/2021-07-20_103847 - IN - att 1-cc23b175f2f5cf988c2ebd506976a762.pdf.layout.txt-2013/04917-3
+./politi-ost-politidistrikt/postliste_siste_10_år/2021-07-20_103847 - IN - att 1-cc23b175f2f5cf988c2ebd506976a762.pdf.layout.txt-               Dok.dato: 28112013
+./politi-ost-politidistrikt/postliste_siste_10_år/2021-07-20_103847 - IN - att 1-cc23b175f2f5cf988c2ebd506976a762.pdf.layout.txt-               Jour.dato: 24012014
+./politi-ost-politidistrikt/postliste_siste_10_år/2021-07-20_103847 - IN - att 1-cc23b175f2f5cf988c2ebd506976a762.pdf.layout.txt-               Grad: U 0 Par.:
+./politi-ost-politidistrikt/postliste_siste_10_år/2021-07-20_103847 - IN - att 1-cc23b175f2f5cf988c2ebd506976a762.pdf.layout.txt:U      Til:    Norsk Narkotikapolitiforening Østfold lokallag
+./politi-ost-politidistrikt/postliste_siste_10_år/2021-07-20_103847 - IN - att 1-cc23b175f2f5cf988c2ebd506976a762.pdf.layout.txt:       Sak:    Anmodning om godkjenning av Norsk Narkotikaforenings utdanningskonferanse som
+./politi-ost-politidistrikt/postliste_siste_10_år/2021-07-20_103847 - IN - att 1-cc23b175f2f5cf988c2ebd506976a762.pdf.layout.txt-               fagkurs
+./politi-ost-politidistrikt/postliste_siste_10_år/2021-07-20_103847 - IN - att 1-cc23b175f2f5cf988c2ebd506976a762.pdf.layout.txt:       Dok:    Anmodning om godkjenning av Norsk Narkotikapolitiforenings utdanningskonferanse
+./politi-ost-politidistrikt/postliste_siste_10_år/2021-07-20_103847 - IN - att 1-cc23b175f2f5cf988c2ebd506976a762.pdf.layout.txt-               som fagkurs
+./politi-ost-politidistrikt/postliste_siste_10_år/2021-07-20_103847 - IN - att 1-cc23b175f2f5cf988c2ebd506976a762.pdf.layout.txt-               Saksansv: 110 / 1100                            Saksbeh: 110 / 1100
+./politi-ost-politidistrikt/postliste_siste_10_år/2021-07-20_103847 - IN - att 1-cc23b175f2f5cf988c2ebd506976a762.pdf.layout.txt-
+./politi-ost-politidistrikt/postliste_siste_10_år/2021-07-20_103847 - IN - att 1-cc23b175f2f5cf988c2ebd506976a762.pdf.layout.txt-2013/04929-2
+--
+./politi-ost-politidistrikt/postliste_siste_10_år/2021-07-20_110240 - IN - att 9-056073ff5c50962a81b657bd8ae5d78a.pdf.layout.txt-               Dok.dato: 13052016
+./politi-ost-politidistrikt/postliste_siste_10_år/2021-07-20_110240 - IN - att 9-056073ff5c50962a81b657bd8ae5d78a.pdf.layout.txt-               Jour.dato: 13052016
+./politi-ost-politidistrikt/postliste_siste_10_år/2021-07-20_110240 - IN - att 9-056073ff5c50962a81b657bd8ae5d78a.pdf.layout.txt-               Grad: U 0 Par.:
+./politi-ost-politidistrikt/postliste_siste_10_år/2021-07-20_110240 - IN - att 9-056073ff5c50962a81b657bd8ae5d78a.pdf.layout.txt-I      Fra:    Politidirektoratet
+./politi-ost-politidistrikt/postliste_siste_10_år/2021-07-20_110240 - IN - att 9-056073ff5c50962a81b657bd8ae5d78a.pdf.layout.txt:       Sak:    Tilbud om kompetanseheving innen dopingkriminalitet - Norsk Narkotikapolitiforening
+./politi-ost-politidistrikt/postliste_siste_10_år/2021-07-20_110240 - IN - att 9-056073ff5c50962a81b657bd8ae5d78a.pdf.layout.txt-               NNPF
+./politi-ost-politidistrikt/postliste_siste_10_år/2021-07-20_110240 - IN - att 9-056073ff5c50962a81b657bd8ae5d78a.pdf.layout.txt:       Dok:    Tilbud om kompetanseheving innen dopingkriminalitet - Norsk Narkotikapolitiforening
+./politi-ost-politidistrikt/postliste_siste_10_år/2021-07-20_110240 - IN - att 9-056073ff5c50962a81b657bd8ae5d78a.pdf.layout.txt-               NNPF
+./politi-ost-politidistrikt/postliste_siste_10_år/2021-07-20_110240 - IN - att 9-056073ff5c50962a81b657bd8ae5d78a.pdf.layout.txt-               Saksansv: 12 / 120                            Saksbeh: 12 / 120
+./politi-ost-politidistrikt/postliste_siste_10_år/2021-07-20_110240 - IN - att 9-056073ff5c50962a81b657bd8ae5d78a.pdf.layout.txt-
+./politi-ost-politidistrikt/postliste_siste_10_år/2021-07-20_110240 - IN - att 9-056073ff5c50962a81b657bd8ae5d78a.pdf.layout.txt-2016/02556-1
+--
+./politi-ost-politidistrikt/postliste_siste_10_år/2021-07-20_101028 - IN - att 20-900ad260317a931ae6578d4687178612.pdf.layout.txt-2013/03453-1
+./politi-ost-politidistrikt/postliste_siste_10_år/2021-07-20_101028 - IN - att 20-900ad260317a931ae6578d4687178612.pdf.layout.txt-               Dok.dato: 01072013                             Grad: UO 5    Par.: Offl. 13.1 jf fvl 13.1.1
+./politi-ost-politidistrikt/postliste_siste_10_år/2021-07-20_101028 - IN - att 20-900ad260317a931ae6578d4687178612.pdf.layout.txt-               Jour.dato: 26072013
+./politi-ost-politidistrikt/postliste_siste_10_år/2021-07-20_101028 - IN - att 20-900ad260317a931ae6578d4687178612.pdf.layout.txt-I      Fra:    Avskjermet
+./politi-ost-politidistrikt/postliste_siste_10_år/2021-07-20_101028 - IN - att 20-900ad260317a931ae6578d4687178612.pdf.layout.txt:       Sak:    Norsk Narkotikapolitiforenings utdanningskonferanse 2013
+./politi-ost-politidistrikt/postliste_siste_10_år/2021-07-20_101028 - IN - att 20-900ad260317a931ae6578d4687178612.pdf.layout.txt-       Dok:    Søknad om støtte til deltagelse på NNPF utdanningskonferanse 2013 - Avskjermet
+./politi-ost-politidistrikt/postliste_siste_10_år/2021-07-20_101028 - IN - att 20-900ad260317a931ae6578d4687178612.pdf.layout.txt-               Saksansv: 12 / 120                           Saksbeh: 12 / 120
+./politi-ost-politidistrikt/postliste_siste_10_år/2021-07-20_101028 - IN - att 20-900ad260317a931ae6578d4687178612.pdf.layout.txt-
+./politi-ost-politidistrikt/postliste_siste_10_år/2021-07-20_101028 - IN - att 20-900ad260317a931ae6578d4687178612.pdf.layout.txt-
+--
+./politi-ost-politidistrikt/postliste_siste_10_år/2021-07-20_111110 - IN - att 10-65e36e93b526a3609554a8d3c8c28a62.pdf.layout.txt-2017/01777-1
+./politi-ost-politidistrikt/postliste_siste_10_år/2021-07-20_111110 - IN - att 10-65e36e93b526a3609554a8d3c8c28a62.pdf.layout.txt-               Dok.dato: 28022017
+./politi-ost-politidistrikt/postliste_siste_10_år/2021-07-20_111110 - IN - att 10-65e36e93b526a3609554a8d3c8c28a62.pdf.layout.txt-               Jour.dato: 13032017
+./politi-ost-politidistrikt/postliste_siste_10_år/2021-07-20_111110 - IN - att 10-65e36e93b526a3609554a8d3c8c28a62.pdf.layout.txt-               Grad: U 0 Par.:
+./politi-ost-politidistrikt/postliste_siste_10_år/2021-07-20_111110 - IN - att 10-65e36e93b526a3609554a8d3c8c28a62.pdf.layout.txt:I      Fra:    Norsk Narkotikapolitiforening
+./politi-ost-politidistrikt/postliste_siste_10_år/2021-07-20_111110 - IN - att 10-65e36e93b526a3609554a8d3c8c28a62.pdf.layout.txt:       Sak:    Tegn og Symptomer kurs - Norsk Narkotikapolitiforening
+./politi-ost-politidistrikt/postliste_siste_10_år/2021-07-20_111110 - IN - att 10-65e36e93b526a3609554a8d3c8c28a62.pdf.layout.txt:       Dok:    Tegn og Symptomer kurs - Norsk Narkotikapolitiforening
+./politi-ost-politidistrikt/postliste_siste_10_år/2021-07-20_111110 - IN - att 10-65e36e93b526a3609554a8d3c8c28a62.pdf.layout.txt-               Saksansv: 12 / 120                             Saksbeh: 12 / 120
+./politi-ost-politidistrikt/postliste_siste_10_år/2021-07-20_111110 - IN - att 10-65e36e93b526a3609554a8d3c8c28a62.pdf.layout.txt-
+./politi-ost-politidistrikt/postliste_siste_10_år/2021-07-20_111110 - IN - att 10-65e36e93b526a3609554a8d3c8c28a62.pdf.layout.txt-2017/01778-1
+./politi-ost-politidistrikt/postliste_siste_10_år/2021-07-20_111110 - IN - att 10-65e36e93b526a3609554a8d3c8c28a62.pdf.layout.txt-               Dok.dato: 13032017
+--
+./politi-ost-politidistrikt/postliste_siste_10_år/2021-07-20_111110 - IN - att 9-a1fa5310ae27ade9f79d7208d75e6e05.pdf.layout.txt-2017/01777-1
+./politi-ost-politidistrikt/postliste_siste_10_år/2021-07-20_111110 - IN - att 9-a1fa5310ae27ade9f79d7208d75e6e05.pdf.layout.txt-               Dok.dato: 28022017
+./politi-ost-politidistrikt/postliste_siste_10_år/2021-07-20_111110 - IN - att 9-a1fa5310ae27ade9f79d7208d75e6e05.pdf.layout.txt-               Jour.dato: 13032017
+./politi-ost-politidistrikt/postliste_siste_10_år/2021-07-20_111110 - IN - att 9-a1fa5310ae27ade9f79d7208d75e6e05.pdf.layout.txt-               Grad: U 0 Par.:
+./politi-ost-politidistrikt/postliste_siste_10_år/2021-07-20_111110 - IN - att 9-a1fa5310ae27ade9f79d7208d75e6e05.pdf.layout.txt:I      Fra:    Norsk Narkotikapolitiforening
+./politi-ost-politidistrikt/postliste_siste_10_år/2021-07-20_111110 - IN - att 9-a1fa5310ae27ade9f79d7208d75e6e05.pdf.layout.txt:       Sak:    Tegn og Symptomer kurs - Norsk Narkotikapolitiforening
+./politi-ost-politidistrikt/postliste_siste_10_år/2021-07-20_111110 - IN - att 9-a1fa5310ae27ade9f79d7208d75e6e05.pdf.layout.txt:       Dok:    Tegn og Symptomer kurs - Norsk Narkotikapolitiforening
+./politi-ost-politidistrikt/postliste_siste_10_år/2021-07-20_111110 - IN - att 9-a1fa5310ae27ade9f79d7208d75e6e05.pdf.layout.txt-               Saksansv: 12 / 120                             Saksbeh: 12 / 120
+./politi-ost-politidistrikt/postliste_siste_10_år/2021-07-20_111110 - IN - att 9-a1fa5310ae27ade9f79d7208d75e6e05.pdf.layout.txt-
+./politi-ost-politidistrikt/postliste_siste_10_år/2021-07-20_111110 - IN - att 9-a1fa5310ae27ade9f79d7208d75e6e05.pdf.layout.txt-2017/01778-1
+./politi-ost-politidistrikt/postliste_siste_10_år/2021-07-20_111110 - IN - att 9-a1fa5310ae27ade9f79d7208d75e6e05.pdf.layout.txt-               Dok.dato: 13032017
+--
+./politi-ost-politidistrikt/postliste_siste_10_år/2021-07-20_101028 - IN - att 23-fc09122faf916cfde0fce3ec5c350757.pdf.layout.txt-
+./politi-ost-politidistrikt/postliste_siste_10_år/2021-07-20_101028 - IN - att 23-fc09122faf916cfde0fce3ec5c350757.pdf.layout.txt-2013/03453-3
+./politi-ost-politidistrikt/postliste_siste_10_år/2021-07-20_101028 - IN - att 23-fc09122faf916cfde0fce3ec5c350757.pdf.layout.txt-               Dok.dato: 31072013                             Grad: U 0        Par.:
+./politi-ost-politidistrikt/postliste_siste_10_år/2021-07-20_101028 - IN - att 23-fc09122faf916cfde0fce3ec5c350757.pdf.layout.txt-               Jour.dato: 31072013
+./politi-ost-politidistrikt/postliste_siste_10_år/2021-07-20_101028 - IN - att 23-fc09122faf916cfde0fce3ec5c350757.pdf.layout.txt:I      Fra:    Norsk Narkotikapolitiforening
+./politi-ost-politidistrikt/postliste_siste_10_år/2021-07-20_101028 - IN - att 23-fc09122faf916cfde0fce3ec5c350757.pdf.layout.txt:       Sak:    Norsk Narkotikapolitiforenings utdanningskonferanse 2013
+./politi-ost-politidistrikt/postliste_siste_10_år/2021-07-20_101028 - IN - att 23-fc09122faf916cfde0fce3ec5c350757.pdf.layout.txt:       Dok:    Invitasjon til Norsk Narkotikapolitiforenings utdanningskonferanse 2013
+./politi-ost-politidistrikt/postliste_siste_10_år/2021-07-20_101028 - IN - att 23-fc09122faf916cfde0fce3ec5c350757.pdf.layout.txt-               Saksansv: 12 / 120                             Saksbeh: 12 / 120
+./politi-ost-politidistrikt/postliste_siste_10_år/2021-07-20_101028 - IN - att 23-fc09122faf916cfde0fce3ec5c350757.pdf.layout.txt-
+./politi-ost-politidistrikt/postliste_siste_10_år/2021-07-20_101028 - IN - att 23-fc09122faf916cfde0fce3ec5c350757.pdf.layout.txt-
+./politi-ost-politidistrikt/postliste_siste_10_år/2021-07-20_101028 - IN - att 23-fc09122faf916cfde0fce3ec5c350757.pdf.layout.txt-2013/03459-1
+--
+./politi-ost-politidistrikt/postliste_siste_10_år/2021-07-20_100230 - IN - att 20-d766ac834e1f650c9e2972e73fc2ae7a.pdf.layout.txt-
+./politi-ost-politidistrikt/postliste_siste_10_år/2021-07-20_100230 - IN - att 20-d766ac834e1f650c9e2972e73fc2ae7a.pdf.layout.txt-2012/04593-1
+./politi-ost-politidistrikt/postliste_siste_10_år/2021-07-20_100230 - IN - att 20-d766ac834e1f650c9e2972e73fc2ae7a.pdf.layout.txt-               Dok.dato: 24092012                              Grad: U 0       Par.:
+./politi-ost-politidistrikt/postliste_siste_10_år/2021-07-20_100230 - IN - att 20-d766ac834e1f650c9e2972e73fc2ae7a.pdf.layout.txt-               Jour.dato: 28092012
+./politi-ost-politidistrikt/postliste_siste_10_år/2021-07-20_100230 - IN - att 20-d766ac834e1f650c9e2972e73fc2ae7a.pdf.layout.txt:I      Fra:    Norsk narkotikapolitiforening - Romerike lokallag
+./politi-ost-politidistrikt/postliste_siste_10_år/2021-07-20_100230 - IN - att 20-d766ac834e1f650c9e2972e73fc2ae7a.pdf.layout.txt:       Sak:    Norsk Narkotikapolitiforenings utdanningskonferanse 2012
+./politi-ost-politidistrikt/postliste_siste_10_år/2021-07-20_100230 - IN - att 20-d766ac834e1f650c9e2972e73fc2ae7a.pdf.layout.txt:       Dok:    Invitasjon til deltagelse ved Norsk Narkotikapolitiforenings utdanningskonferanse 2012
+./politi-ost-politidistrikt/postliste_siste_10_år/2021-07-20_100230 - IN - att 20-d766ac834e1f650c9e2972e73fc2ae7a.pdf.layout.txt-
+./politi-ost-politidistrikt/postliste_siste_10_år/2021-07-20_100230 - IN - att 20-d766ac834e1f650c9e2972e73fc2ae7a.pdf.layout.txt-               Saksansv: 11 / 110                             Saksbeh: 11 / 110
+./politi-ost-politidistrikt/postliste_siste_10_år/2021-07-20_100230 - IN - att 20-d766ac834e1f650c9e2972e73fc2ae7a.pdf.layout.txt-
+./politi-ost-politidistrikt/postliste_siste_10_år/2021-07-20_100230 - IN - att 20-d766ac834e1f650c9e2972e73fc2ae7a.pdf.layout.txt-
+./politi-ost-politidistrikt/postliste_siste_10_år/2021-07-20_100230 - IN - att 20-d766ac834e1f650c9e2972e73fc2ae7a.pdf.layout.txt-2012/04593-2
+./politi-ost-politidistrikt/postliste_siste_10_år/2021-07-20_100230 - IN - att 20-d766ac834e1f650c9e2972e73fc2ae7a.pdf.layout.txt-               Dok.dato: 27092012                              Grad: U 0       Par.:
+./politi-ost-politidistrikt/postliste_siste_10_år/2021-07-20_100230 - IN - att 20-d766ac834e1f650c9e2972e73fc2ae7a.pdf.layout.txt-               Jour.dato: 28092012
+./politi-ost-politidistrikt/postliste_siste_10_år/2021-07-20_100230 - IN - att 20-d766ac834e1f650c9e2972e73fc2ae7a.pdf.layout.txt:U      Til:    Norsk narkotikapolitiforening - Romerike lokallag
+./politi-ost-politidistrikt/postliste_siste_10_år/2021-07-20_100230 - IN - att 20-d766ac834e1f650c9e2972e73fc2ae7a.pdf.layout.txt:       Sak:    Norsk Narkotikapolitiforenings utdanningskonferanse 2012
+./politi-ost-politidistrikt/postliste_siste_10_år/2021-07-20_100230 - IN - att 20-d766ac834e1f650c9e2972e73fc2ae7a.pdf.layout.txt:       Dok:    Svar på invitasjon til deltagelse ved Norsk Narkotikapolitiforenings
+./politi-ost-politidistrikt/postliste_siste_10_år/2021-07-20_100230 - IN - att 20-d766ac834e1f650c9e2972e73fc2ae7a.pdf.layout.txt-               utdanningskonferanse 2012
+./politi-ost-politidistrikt/postliste_siste_10_år/2021-07-20_100230 - IN - att 20-d766ac834e1f650c9e2972e73fc2ae7a.pdf.layout.txt-               Saksansv: 11 / 110                             Saksbeh: 11 / 110
+./politi-ost-politidistrikt/postliste_siste_10_år/2021-07-20_100230 - IN - att 20-d766ac834e1f650c9e2972e73fc2ae7a.pdf.layout.txt-
+./politi-ost-politidistrikt/postliste_siste_10_år/2021-07-20_100230 - IN - att 20-d766ac834e1f650c9e2972e73fc2ae7a.pdf.layout.txt-
+--
+./politi-innlandet-politidistrikt/postliste_siste_10_år/2021-07-14_091513 - IN - att 27-5376ca1fd91cada8483512f995bd36be.pdf.layout.txt-               Dok.dato: 10082017
+./politi-innlandet-politidistrikt/postliste_siste_10_år/2021-07-14_091513 - IN - att 27-5376ca1fd91cada8483512f995bd36be.pdf.layout.txt-               Jour.dato: 11082017
+./politi-innlandet-politidistrikt/postliste_siste_10_år/2021-07-14_091513 - IN - att 27-5376ca1fd91cada8483512f995bd36be.pdf.layout.txt-               Grad: U 0 Par.:
+./politi-innlandet-politidistrikt/postliste_siste_10_år/2021-07-14_091513 - IN - att 27-5376ca1fd91cada8483512f995bd36be.pdf.layout.txt-I      Fra:    Birgit Feltvik
+./politi-innlandet-politidistrikt/postliste_siste_10_år/2021-07-14_091513 - IN - att 27-5376ca1fd91cada8483512f995bd36be.pdf.layout.txt:       Sak:    Begjæring om innsyn - Norsk Narkotikapolitiforening - Øyvind Buraas sin epost -
+./politi-innlandet-politidistrikt/postliste_siste_10_år/2021-07-14_091513 - IN - att 27-5376ca1fd91cada8483512f995bd36be.pdf.layout.txt-               Birgit Feltvik
+./politi-innlandet-politidistrikt/postliste_siste_10_år/2021-07-14_091513 - IN - att 27-5376ca1fd91cada8483512f995bd36be.pdf.layout.txt:       Dok:    Klage på avslag på innsyn - Norsk Narkotikapolitiforening - Øyvind Buraas sin epost -
+./politi-innlandet-politidistrikt/postliste_siste_10_år/2021-07-14_091513 - IN - att 27-5376ca1fd91cada8483512f995bd36be.pdf.layout.txt-               Birgit Feltvik
+./politi-innlandet-politidistrikt/postliste_siste_10_år/2021-07-14_091513 - IN - att 27-5376ca1fd91cada8483512f995bd36be.pdf.layout.txt-               Saksansv: PM_VPM / PM-VPM                     Saksbeh: HED / RP_HED
+./politi-innlandet-politidistrikt/postliste_siste_10_år/2021-07-14_091513 - IN - att 27-5376ca1fd91cada8483512f995bd36be.pdf.layout.txt-
+./politi-innlandet-politidistrikt/postliste_siste_10_år/2021-07-14_091513 - IN - att 27-5376ca1fd91cada8483512f995bd36be.pdf.layout.txt-2017/04294-3
+--
+./politi-innlandet-politidistrikt/postliste_siste_10_år/2021-07-14_090715 - IN - att 4-ba6d5bf27bd5d0c653fa7841756a5e6e.pdf.layout.txt-                  Avsender                    VG
+./politi-innlandet-politidistrikt/postliste_siste_10_år/2021-07-14_090715 - IN - att 4-ba6d5bf27bd5d0c653fa7841756a5e6e.pdf.layout.txt-
+./politi-innlandet-politidistrikt/postliste_siste_10_år/2021-07-14_090715 - IN - att 4-ba6d5bf27bd5d0c653fa7841756a5e6e.pdf.layout.txt-
+./politi-innlandet-politidistrikt/postliste_siste_10_år/2021-07-14_090715 - IN - att 4-ba6d5bf27bd5d0c653fa7841756a5e6e.pdf.layout.txt-
+./politi-innlandet-politidistrikt/postliste_siste_10_år/2021-07-14_090715 - IN - att 4-ba6d5bf27bd5d0c653fa7841756a5e6e.pdf.layout.txt:  21/48824-31 Informasjon om mottatt innsynsbegjæring - Norsk Narkotikapolitiforening
+./politi-innlandet-politidistrikt/postliste_siste_10_år/2021-07-14_090715 - IN - att 4-ba6d5bf27bd5d0c653fa7841756a5e6e.pdf.layout.txt-              SakID/Tittel      21/48824 Innsynsbegjæring - alle utbetalinger
+./politi-innlandet-politidistrikt/postliste_siste_10_år/2021-07-14_090715 - IN - att 4-ba6d5bf27bd5d0c653fa7841756a5e6e.pdf.layout.txt-
+./politi-innlandet-politidistrikt/postliste_siste_10_år/2021-07-14_090715 - IN - att 4-ba6d5bf27bd5d0c653fa7841756a5e6e.pdf.layout.txt-                  JournalpostID               21/188276               Dokumenttype   Inngående brev      Dokumentets dato 23.04.2021
+./politi-innlandet-politidistrikt/postliste_siste_10_år/2021-07-14_090715 - IN - att 4-ba6d5bf27bd5d0c653fa7841756a5e6e.pdf.layout.txt-                  Skjerming jp                                        Paragraf jp                        Journaldato      23.04.2021
+./politi-innlandet-politidistrikt/postliste_siste_10_år/2021-07-14_090715 - IN - att 4-ba6d5bf27bd5d0c653fa7841756a5e6e.pdf.layout.txt-                  Avsender                    Politiets fellestjenester
+./politi-innlandet-politidistrikt/postliste_siste_10_år/2021-07-14_090715 - IN - att 4-ba6d5bf27bd5d0c653fa7841756a5e6e.pdf.layout.txt-
+./politi-innlandet-politidistrikt/postliste_siste_10_år/2021-07-14_090715 - IN - att 4-ba6d5bf27bd5d0c653fa7841756a5e6e.pdf.layout.txt-
+./politi-innlandet-politidistrikt/postliste_siste_10_år/2021-07-14_090715 - IN - att 4-ba6d5bf27bd5d0c653fa7841756a5e6e.pdf.layout.txt-
+./politi-innlandet-politidistrikt/postliste_siste_10_år/2021-07-14_090715 - IN - att 4-ba6d5bf27bd5d0c653fa7841756a5e6e.pdf.layout.txt:  21/48824-12 Informasjon om mottatt innsynsbegjæring - Norsk Narkotikapolitiforening
+./politi-innlandet-politidistrikt/postliste_siste_10_år/2021-07-14_090715 - IN - att 4-ba6d5bf27bd5d0c653fa7841756a5e6e.pdf.layout.txt-              SakID/Tittel      21/48824 Innsynsbegjæring - alle utbetalinger
+./politi-innlandet-politidistrikt/postliste_siste_10_år/2021-07-14_090715 - IN - att 4-ba6d5bf27bd5d0c653fa7841756a5e6e.pdf.layout.txt-
+./politi-innlandet-politidistrikt/postliste_siste_10_år/2021-07-14_090715 - IN - att 4-ba6d5bf27bd5d0c653fa7841756a5e6e.pdf.layout.txt-                  JournalpostID               21/188255               Dokumenttype   Inngående brev      Dokumentets dato 23.04.2021
+./politi-innlandet-politidistrikt/postliste_siste_10_år/2021-07-14_090715 - IN - att 4-ba6d5bf27bd5d0c653fa7841756a5e6e.pdf.layout.txt-                  Skjerming jp                                        Paragraf jp                        Journaldato      23.04.2021
+--
+./politi-innlandet-politidistrikt/postliste_siste_10_år/2021-07-14_090715 - IN - att 4-ba6d5bf27bd5d0c653fa7841756a5e6e.pdf.layout.txt-                  Avsender                    Gran kommune, barneverntjenesten
+./politi-innlandet-politidistrikt/postliste_siste_10_år/2021-07-14_090715 - IN - att 4-ba6d5bf27bd5d0c653fa7841756a5e6e.pdf.layout.txt-
+./politi-innlandet-politidistrikt/postliste_siste_10_år/2021-07-14_090715 - IN - att 4-ba6d5bf27bd5d0c653fa7841756a5e6e.pdf.layout.txt-
+./politi-innlandet-politidistrikt/postliste_siste_10_år/2021-07-14_090715 - IN - att 4-ba6d5bf27bd5d0c653fa7841756a5e6e.pdf.layout.txt-
+./politi-innlandet-politidistrikt/postliste_siste_10_år/2021-07-14_090715 - IN - att 4-ba6d5bf27bd5d0c653fa7841756a5e6e.pdf.layout.txt:    21/48077-1 Begjæring om innsyn - utbetalinger til Norsk Narkotikapolitiforening de ti siste årene
+./politi-innlandet-politidistrikt/postliste_siste_10_år/2021-07-14_090715 - IN - att 4-ba6d5bf27bd5d0c653fa7841756a5e6e.pdf.layout.txt-               SakID/Tittel      21/48077 Innsyn
+./politi-innlandet-politidistrikt/postliste_siste_10_år/2021-07-14_090715 - IN - att 4-ba6d5bf27bd5d0c653fa7841756a5e6e.pdf.layout.txt-
+./politi-innlandet-politidistrikt/postliste_siste_10_år/2021-07-14_090715 - IN - att 4-ba6d5bf27bd5d0c653fa7841756a5e6e.pdf.layout.txt-                  JournalpostID               21/181017              Dokumenttype      Inngående brev          Dokumentets dato 20.04.2021
+./politi-innlandet-politidistrikt/postliste_siste_10_år/2021-07-14_090715 - IN - att 4-ba6d5bf27bd5d0c653fa7841756a5e6e.pdf.layout.txt-                  Skjerming jp                Unntatt offentlighet   Paragraf jp       Offl. § 13 1. ledd, jf. Journaldato      21.04.2021
+--
+./politi-innlandet-politidistrikt/postliste_siste_10_år/2021-07-14_091513 - IN - att 24-964ce9f1f8c01770e0318501729531ae.pdf.layout.txt-                Dok.dato: 15072017
+./politi-innlandet-politidistrikt/postliste_siste_10_år/2021-07-14_091513 - IN - att 24-964ce9f1f8c01770e0318501729531ae.pdf.layout.txt-                Jour.dato: 17072017
+./politi-innlandet-politidistrikt/postliste_siste_10_år/2021-07-14_091513 - IN - att 24-964ce9f1f8c01770e0318501729531ae.pdf.layout.txt-                Grad: U 0 Par.:
+./politi-innlandet-politidistrikt/postliste_siste_10_år/2021-07-14_091513 - IN - att 24-964ce9f1f8c01770e0318501729531ae.pdf.layout.txt-I      Fra:     Ola Selvik
+./politi-innlandet-politidistrikt/postliste_siste_10_år/2021-07-14_091513 - IN - att 24-964ce9f1f8c01770e0318501729531ae.pdf.layout.txt:       Sak:     Begjæring om innsyn - Norsk Narkotikapolitiforening - Øyvind Buraas sin epost - Ola
+./politi-innlandet-politidistrikt/postliste_siste_10_år/2021-07-14_091513 - IN - att 24-964ce9f1f8c01770e0318501729531ae.pdf.layout.txt-                Selvik
+./politi-innlandet-politidistrikt/postliste_siste_10_år/2021-07-14_091513 - IN - att 24-964ce9f1f8c01770e0318501729531ae.pdf.layout.txt:       Dok:     Begjæring om innsyn - kommunikasjon med Norsk Narkotikapolitiforening (NNPF) -
+./politi-innlandet-politidistrikt/postliste_siste_10_år/2021-07-14_091513 - IN - att 24-964ce9f1f8c01770e0318501729531ae.pdf.layout.txt-                Ola Selvik
+./politi-innlandet-politidistrikt/postliste_siste_10_år/2021-07-14_091513 - IN - att 24-964ce9f1f8c01770e0318501729531ae.pdf.layout.txt-                Saksansv: PM_VPM / PM-VPM                    Saksbeh: SKOM / KOM
+./politi-innlandet-politidistrikt/postliste_siste_10_år/2021-07-14_091513 - IN - att 24-964ce9f1f8c01770e0318501729531ae.pdf.layout.txt-
+./politi-innlandet-politidistrikt/postliste_siste_10_år/2021-07-14_091513 - IN - att 24-964ce9f1f8c01770e0318501729531ae.pdf.layout.txt-2017/04130-3
+./politi-innlandet-politidistrikt/postliste_siste_10_år/2021-07-14_091513 - IN - att 24-964ce9f1f8c01770e0318501729531ae.pdf.layout.txt-                Dok.dato: 20072017
+./politi-innlandet-politidistrikt/postliste_siste_10_år/2021-07-14_091513 - IN - att 24-964ce9f1f8c01770e0318501729531ae.pdf.layout.txt-                Jour.dato: 20072017
+./politi-innlandet-politidistrikt/postliste_siste_10_år/2021-07-14_091513 - IN - att 24-964ce9f1f8c01770e0318501729531ae.pdf.layout.txt-                Grad: U 0 Par.:
+./politi-innlandet-politidistrikt/postliste_siste_10_år/2021-07-14_091513 - IN - att 24-964ce9f1f8c01770e0318501729531ae.pdf.layout.txt-U      Til:     Ola Selvik
+./politi-innlandet-politidistrikt/postliste_siste_10_år/2021-07-14_091513 - IN - att 24-964ce9f1f8c01770e0318501729531ae.pdf.layout.txt:       Sak:     Begjæring om innsyn - Norsk Narkotikapolitiforening - Øyvind Buraas sin epost - Ola
+./politi-innlandet-politidistrikt/postliste_siste_10_år/2021-07-14_091513 - IN - att 24-964ce9f1f8c01770e0318501729531ae.pdf.layout.txt-                Selvik
+./politi-innlandet-politidistrikt/postliste_siste_10_år/2021-07-14_091513 - IN - att 24-964ce9f1f8c01770e0318501729531ae.pdf.layout.txt:       Dok:     Avslag på begjæring om innsyn - kommunikasjon med Norsk Narkotikapolitiforening
+./politi-innlandet-politidistrikt/postliste_siste_10_år/2021-07-14_091513 - IN - att 24-964ce9f1f8c01770e0318501729531ae.pdf.layout.txt-                (NNPF) - Ola Selvik
+./politi-innlandet-politidistrikt/postliste_siste_10_år/2021-07-14_091513 - IN - att 24-964ce9f1f8c01770e0318501729531ae.pdf.layout.txt-                Saksansv: PM_VPM / PM-VPM                    Saksbeh: SKOM / KOM
+./politi-innlandet-politidistrikt/postliste_siste_10_år/2021-07-14_091513 - IN - att 24-964ce9f1f8c01770e0318501729531ae.pdf.layout.txt-
+./politi-innlandet-politidistrikt/postliste_siste_10_år/2021-07-14_091513 - IN - att 24-964ce9f1f8c01770e0318501729531ae.pdf.layout.txt-
+--
+./politi-innlandet-politidistrikt/postliste_siste_10_år/2021-07-14_091513 - IN - att 24-964ce9f1f8c01770e0318501729531ae.pdf.layout.txt-               Dok.dato: 21072017
+./politi-innlandet-politidistrikt/postliste_siste_10_år/2021-07-14_091513 - IN - att 24-964ce9f1f8c01770e0318501729531ae.pdf.layout.txt-               Jour.dato: 21072017
+./politi-innlandet-politidistrikt/postliste_siste_10_år/2021-07-14_091513 - IN - att 24-964ce9f1f8c01770e0318501729531ae.pdf.layout.txt-               Grad: U 0 Par.:
+./politi-innlandet-politidistrikt/postliste_siste_10_år/2021-07-14_091513 - IN - att 24-964ce9f1f8c01770e0318501729531ae.pdf.layout.txt-I      Fra:    Ola Selvik
+./politi-innlandet-politidistrikt/postliste_siste_10_år/2021-07-14_091513 - IN - att 24-964ce9f1f8c01770e0318501729531ae.pdf.layout.txt:       Sak:    Begjæring om innsyn - Norsk Narkotikapolitiforening - Øyvind Buraas sin epost - Ola
+./politi-innlandet-politidistrikt/postliste_siste_10_år/2021-07-14_091513 - IN - att 24-964ce9f1f8c01770e0318501729531ae.pdf.layout.txt-               Selvik
+./politi-innlandet-politidistrikt/postliste_siste_10_år/2021-07-14_091513 - IN - att 24-964ce9f1f8c01770e0318501729531ae.pdf.layout.txt-       Dok:    Klage på avslag på innsyn i Øyvind Buraas sin epost og krav om utvidet begrunnelse
+./politi-innlandet-politidistrikt/postliste_siste_10_år/2021-07-14_091513 - IN - att 24-964ce9f1f8c01770e0318501729531ae.pdf.layout.txt-               Saksansv: PM_VPM / PM-VPM                     Saksbeh: HED / RP_HED
+./politi-innlandet-politidistrikt/postliste_siste_10_år/2021-07-14_091513 - IN - att 24-964ce9f1f8c01770e0318501729531ae.pdf.layout.txt-
+--
+./politi-innlandet-politidistrikt/postliste_siste_10_år/2021-07-14_091513 - IN - att 24-964ce9f1f8c01770e0318501729531ae.pdf.layout.txt-               Dok.dato: 18072017
+./politi-innlandet-politidistrikt/postliste_siste_10_år/2021-07-14_091513 - IN - att 24-964ce9f1f8c01770e0318501729531ae.pdf.layout.txt-               Jour.dato: 19072017
+./politi-innlandet-politidistrikt/postliste_siste_10_år/2021-07-14_091513 - IN - att 24-964ce9f1f8c01770e0318501729531ae.pdf.layout.txt-               Grad: U 0 Par.:
+./politi-innlandet-politidistrikt/postliste_siste_10_år/2021-07-14_091513 - IN - att 24-964ce9f1f8c01770e0318501729531ae.pdf.layout.txt-I      Fra:    Birgit Feltvik
+./politi-innlandet-politidistrikt/postliste_siste_10_år/2021-07-14_091513 - IN - att 24-964ce9f1f8c01770e0318501729531ae.pdf.layout.txt:       Sak:    Begjæring om innsyn - Norsk Narkotikapolitiforening - Øyvind Buraas sin epost -
+./politi-innlandet-politidistrikt/postliste_siste_10_år/2021-07-14_091513 - IN - att 24-964ce9f1f8c01770e0318501729531ae.pdf.layout.txt-               Birgit Feltvik
+./politi-innlandet-politidistrikt/postliste_siste_10_år/2021-07-14_091513 - IN - att 24-964ce9f1f8c01770e0318501729531ae.pdf.layout.txt:       Dok:    Begjæring om innsyn - Norsk Narkotikapolitiforening - Øyvind Buraas sin epost -
+./politi-innlandet-politidistrikt/postliste_siste_10_år/2021-07-14_091513 - IN - att 24-964ce9f1f8c01770e0318501729531ae.pdf.layout.txt-               Birgit Feltvik
+./politi-innlandet-politidistrikt/postliste_siste_10_år/2021-07-14_091513 - IN - att 24-964ce9f1f8c01770e0318501729531ae.pdf.layout.txt-               Saksansv: PM_VPM / PM-VPM                    Saksbeh: HED / RP_HED
+./politi-innlandet-politidistrikt/postliste_siste_10_år/2021-07-14_091513 - IN - att 24-964ce9f1f8c01770e0318501729531ae.pdf.layout.txt-
+./politi-innlandet-politidistrikt/postliste_siste_10_år/2021-07-14_091513 - IN - att 24-964ce9f1f8c01770e0318501729531ae.pdf.layout.txt-2017/04294-1
+--
+./politi-innlandet-politidistrikt/postliste_siste_10_år/2021-07-14_091513 - IN - att 7-0145c651f6a4ed016c63c49c372d03f1.pdf.layout.txt-               Dok.dato: 22032017
+./politi-innlandet-politidistrikt/postliste_siste_10_år/2021-07-14_091513 - IN - att 7-0145c651f6a4ed016c63c49c372d03f1.pdf.layout.txt-               Jour.dato: 22032017
+./politi-innlandet-politidistrikt/postliste_siste_10_år/2021-07-14_091513 - IN - att 7-0145c651f6a4ed016c63c49c372d03f1.pdf.layout.txt-               Grad: UO 5 Par.: Offl. 13.1 jf fvl 13.1.1
+./politi-innlandet-politidistrikt/postliste_siste_10_år/2021-07-14_091513 - IN - att 7-0145c651f6a4ed016c63c49c372d03f1.pdf.layout.txt-U      Til:    Avskjermet
+./politi-innlandet-politidistrikt/postliste_siste_10_år/2021-07-14_091513 - IN - att 7-0145c651f6a4ed016c63c49c372d03f1.pdf.layout.txt:       Sak:    Henvendelse - Norsk Narkotikapolitiforening
+./politi-innlandet-politidistrikt/postliste_siste_10_år/2021-07-14_091513 - IN - att 7-0145c651f6a4ed016c63c49c372d03f1.pdf.layout.txt:       Dok:    Svar på henvendelse - Norsk Narkotikapolitiforening - Avskjermet
+./politi-innlandet-politidistrikt/postliste_siste_10_år/2021-07-14_091513 - IN - att 7-0145c651f6a4ed016c63c49c372d03f1.pdf.layout.txt-               Saksansv: PM_VPM / PM-VPM                        Saksbeh: PM_VPM / PM-VPM
+./politi-innlandet-politidistrikt/postliste_siste_10_år/2021-07-14_091513 - IN - att 7-0145c651f6a4ed016c63c49c372d03f1.pdf.layout.txt-
+./politi-innlandet-politidistrikt/postliste_siste_10_år/2021-07-14_091513 - IN - att 7-0145c651f6a4ed016c63c49c372d03f1.pdf.layout.txt-2017/02339-1
+./politi-innlandet-politidistrikt/postliste_siste_10_år/2021-07-14_091513 - IN - att 7-0145c651f6a4ed016c63c49c372d03f1.pdf.layout.txt-               Dok.dato: 16122016
+--
+./politi-innlandet-politidistrikt/postliste_siste_10_år/2021-07-14_091513 - IN - att 33-06709c05e23962333c34dea4db02a302.pdf.layout.txt-                Dok.dato: 16092017
+./politi-innlandet-politidistrikt/postliste_siste_10_år/2021-07-14_091513 - IN - att 33-06709c05e23962333c34dea4db02a302.pdf.layout.txt-                Jour.dato: 18092017
+./politi-innlandet-politidistrikt/postliste_siste_10_år/2021-07-14_091513 - IN - att 33-06709c05e23962333c34dea4db02a302.pdf.layout.txt-                Grad: U 0 Par.:
+./politi-innlandet-politidistrikt/postliste_siste_10_år/2021-07-14_091513 - IN - att 33-06709c05e23962333c34dea4db02a302.pdf.layout.txt-I      Fra:     Ola Selvik
+./politi-innlandet-politidistrikt/postliste_siste_10_år/2021-07-14_091513 - IN - att 33-06709c05e23962333c34dea4db02a302.pdf.layout.txt:       Sak:     Begjæring om innsyn - Norsk Narkotikapolitiforening - Øyvind Buraas sin epost - Ola
+./politi-innlandet-politidistrikt/postliste_siste_10_år/2021-07-14_091513 - IN - att 33-06709c05e23962333c34dea4db02a302.pdf.layout.txt-                Selvik
+./politi-innlandet-politidistrikt/postliste_siste_10_år/2021-07-14_091513 - IN - att 33-06709c05e23962333c34dea4db02a302.pdf.layout.txt-       Dok:     Purring - klage på avslag på innsyn - Ola Selvik
+./politi-innlandet-politidistrikt/postliste_siste_10_år/2021-07-14_091513 - IN - att 33-06709c05e23962333c34dea4db02a302.pdf.layout.txt-                Saksansv: PM_VPM / PM-VPM                       Saksbeh: SVS_A / SVS_S
+./politi-innlandet-politidistrikt/postliste_siste_10_år/2021-07-14_091513 - IN - att 33-06709c05e23962333c34dea4db02a302.pdf.layout.txt-
+--
+./politi-innlandet-politidistrikt/postliste_siste_10_år/2021-07-14_091201 - IN - att 28-0d59e4325efc9ad54b9398782270e21d.pdf.layout.txt-               Dok.dato: 26062018
+./politi-innlandet-politidistrikt/postliste_siste_10_år/2021-07-14_091201 - IN - att 28-0d59e4325efc9ad54b9398782270e21d.pdf.layout.txt-               Jour.dato: 26062018
+./politi-innlandet-politidistrikt/postliste_siste_10_år/2021-07-14_091201 - IN - att 28-0d59e4325efc9ad54b9398782270e21d.pdf.layout.txt-               Grad: U 0 Par.:
+./politi-innlandet-politidistrikt/postliste_siste_10_år/2021-07-14_091201 - IN - att 28-0d59e4325efc9ad54b9398782270e21d.pdf.layout.txt-I      Fra:    Politidirektoratet
+./politi-innlandet-politidistrikt/postliste_siste_10_år/2021-07-14_091201 - IN - att 28-0d59e4325efc9ad54b9398782270e21d.pdf.layout.txt:       Sak:    Begjæring om innsyn - Norsk Narkotikapolitiforening - Øyvind Buraas sin epost - Ola
+./politi-innlandet-politidistrikt/postliste_siste_10_år/2021-07-14_091201 - IN - att 28-0d59e4325efc9ad54b9398782270e21d.pdf.layout.txt-               Selvik
+./politi-innlandet-politidistrikt/postliste_siste_10_år/2021-07-14_091201 - IN - att 28-0d59e4325efc9ad54b9398782270e21d.pdf.layout.txt-       Dok:    Politidirektoratets vedtak i innsynssak - klage på avslag på innsyn - Ola Selvik
+./politi-innlandet-politidistrikt/postliste_siste_10_år/2021-07-14_091201 - IN - att 28-0d59e4325efc9ad54b9398782270e21d.pdf.layout.txt-               Saksansv: PM_VPM / PM-VPM                       Saksbeh: SVS_A / SVS_S
+./politi-innlandet-politidistrikt/postliste_siste_10_år/2021-07-14_091201 - IN - att 28-0d59e4325efc9ad54b9398782270e21d.pdf.layout.txt-
+--
+./politi-innlandet-politidistrikt/postliste_siste_10_år/2021-07-14_091513 - IN - att 40-27ff6ad79b8e25037a4118cde81f5f98.pdf.layout.txt-                Dok.dato: 21072017
+./politi-innlandet-politidistrikt/postliste_siste_10_år/2021-07-14_091513 - IN - att 40-27ff6ad79b8e25037a4118cde81f5f98.pdf.layout.txt-                Jour.dato: 09112017
+./politi-innlandet-politidistrikt/postliste_siste_10_år/2021-07-14_091513 - IN - att 40-27ff6ad79b8e25037a4118cde81f5f98.pdf.layout.txt-                Grad: U 0 Par.:
+./politi-innlandet-politidistrikt/postliste_siste_10_år/2021-07-14_091513 - IN - att 40-27ff6ad79b8e25037a4118cde81f5f98.pdf.layout.txt-U      Til:     Ola Selvik
+./politi-innlandet-politidistrikt/postliste_siste_10_år/2021-07-14_091513 - IN - att 40-27ff6ad79b8e25037a4118cde81f5f98.pdf.layout.txt:       Sak:     Begjæring om innsyn - Norsk Narkotikapolitiforening - Øyvind Buraas sin epost - Ola
+./politi-innlandet-politidistrikt/postliste_siste_10_år/2021-07-14_091513 - IN - att 40-27ff6ad79b8e25037a4118cde81f5f98.pdf.layout.txt-                Selvik
+./politi-innlandet-politidistrikt/postliste_siste_10_år/2021-07-14_091513 - IN - att 40-27ff6ad79b8e25037a4118cde81f5f98.pdf.layout.txt-       Dok:     Svar på klage på avslag på innsyn i Øyvind Buraas sin epost
+./politi-innlandet-politidistrikt/postliste_siste_10_år/2021-07-14_091513 - IN - att 40-27ff6ad79b8e25037a4118cde81f5f98.pdf.layout.txt-                Saksansv: PM_VPM / PM-VPM                       Saksbeh: SKOM / KOM
+./politi-innlandet-politidistrikt/postliste_siste_10_år/2021-07-14_091513 - IN - att 40-27ff6ad79b8e25037a4118cde81f5f98.pdf.layout.txt-
+--
+./politi-innlandet-politidistrikt/postliste_siste_10_år/2021-07-14_091513 - IN - att 35-938ab452f8e98c184315a109af3d265f.pdf.layout.txt-               Dok.dato: 30092017
+./politi-innlandet-politidistrikt/postliste_siste_10_år/2021-07-14_091513 - IN - att 35-938ab452f8e98c184315a109af3d265f.pdf.layout.txt-               Jour.dato: 03102017
+./politi-innlandet-politidistrikt/postliste_siste_10_år/2021-07-14_091513 - IN - att 35-938ab452f8e98c184315a109af3d265f.pdf.layout.txt-               Grad: U 0 Par.:
+./politi-innlandet-politidistrikt/postliste_siste_10_år/2021-07-14_091513 - IN - att 35-938ab452f8e98c184315a109af3d265f.pdf.layout.txt-U      Til:    Politidirektoratet
+./politi-innlandet-politidistrikt/postliste_siste_10_år/2021-07-14_091513 - IN - att 35-938ab452f8e98c184315a109af3d265f.pdf.layout.txt:       Sak:    Begjæring om innsyn - Norsk Narkotikapolitiforening - Øyvind Buraas sin epost -
+./politi-innlandet-politidistrikt/postliste_siste_10_år/2021-07-14_091513 - IN - att 35-938ab452f8e98c184315a109af3d265f.pdf.layout.txt-               Birgit Feltvik
+./politi-innlandet-politidistrikt/postliste_siste_10_år/2021-07-14_091513 - IN - att 35-938ab452f8e98c184315a109af3d265f.pdf.layout.txt:       Dok:    Oversendelse av klage på avslag på innsyn - Norsk Narkotikapolitiforening - Øyvind
+./politi-innlandet-politidistrikt/postliste_siste_10_år/2021-07-14_091513 - IN - att 35-938ab452f8e98c184315a109af3d265f.pdf.layout.txt-               Buraas sin epost - Birgit Feltvik
+./politi-innlandet-politidistrikt/postliste_siste_10_år/2021-07-14_091513 - IN - att 35-938ab452f8e98c184315a109af3d265f.pdf.layout.txt-               Saksansv: PM_VPM / PM-VPM                      Saksbeh: HED / RP_HED
+./politi-innlandet-politidistrikt/postliste_siste_10_år/2021-07-14_091513 - IN - att 35-938ab452f8e98c184315a109af3d265f.pdf.layout.txt-
+./politi-innlandet-politidistrikt/postliste_siste_10_år/2021-07-14_091513 - IN - att 35-938ab452f8e98c184315a109af3d265f.pdf.layout.txt-
+--
+./politi-innlandet-politidistrikt/postliste_siste_10_år/2021-07-14_092811 - IN - att 112-42067a7bcaa7f2a3be59a696e13c0272.pdf.layout.txt-               Dok.dato: 11112016
+./politi-innlandet-politidistrikt/postliste_siste_10_år/2021-07-14_092811 - IN - att 112-42067a7bcaa7f2a3be59a696e13c0272.pdf.layout.txt-               Jour.dato: 14112016
+./politi-innlandet-politidistrikt/postliste_siste_10_år/2021-07-14_092811 - IN - att 112-42067a7bcaa7f2a3be59a696e13c0272.pdf.layout.txt-               Grad: UO 5 Par.: Offl. 13.1 jf fvl 13.1.1
+./politi-innlandet-politidistrikt/postliste_siste_10_år/2021-07-14_092811 - IN - att 112-42067a7bcaa7f2a3be59a696e13c0272.pdf.layout.txt-I      Fra:    Avskjermet
+./politi-innlandet-politidistrikt/postliste_siste_10_år/2021-07-14_092811 - IN - att 112-42067a7bcaa7f2a3be59a696e13c0272.pdf.layout.txt:       Sak:    Henvendelse - Norsk Narkotikapolitiforening
+./politi-innlandet-politidistrikt/postliste_siste_10_år/2021-07-14_092811 - IN - att 112-42067a7bcaa7f2a3be59a696e13c0272.pdf.layout.txt:       Dok:    Henvendelse - Norsk Narkotikapolitiforening
+./politi-innlandet-politidistrikt/postliste_siste_10_år/2021-07-14_092811 - IN - att 112-42067a7bcaa7f2a3be59a696e13c0272.pdf.layout.txt-               Saksansv: PM / PMH                            Saksbeh: PM / PMH
+./politi-innlandet-politidistrikt/postliste_siste_10_år/2021-07-14_092811 - IN - att 112-42067a7bcaa7f2a3be59a696e13c0272.pdf.layout.txt-
+./politi-innlandet-politidistrikt/postliste_siste_10_år/2021-07-14_092811 - IN - att 112-42067a7bcaa7f2a3be59a696e13c0272.pdf.layout.txt-2016/03207-2
+./politi-innlandet-politidistrikt/postliste_siste_10_år/2021-07-14_092811 - IN - att 112-42067a7bcaa7f2a3be59a696e13c0272.pdf.layout.txt-               Dok.dato: 13112016
+./politi-innlandet-politidistrikt/postliste_siste_10_år/2021-07-14_092811 - IN - att 112-42067a7bcaa7f2a3be59a696e13c0272.pdf.layout.txt-               Jour.dato: 14112016
+./politi-innlandet-politidistrikt/postliste_siste_10_år/2021-07-14_092811 - IN - att 112-42067a7bcaa7f2a3be59a696e13c0272.pdf.layout.txt-               Grad: UO 5 Par.: Offl. 13.1 jf fvl 13.1.1
+./politi-innlandet-politidistrikt/postliste_siste_10_år/2021-07-14_092811 - IN - att 112-42067a7bcaa7f2a3be59a696e13c0272.pdf.layout.txt-I      Fra:    Avskjermet
+./politi-innlandet-politidistrikt/postliste_siste_10_år/2021-07-14_092811 - IN - att 112-42067a7bcaa7f2a3be59a696e13c0272.pdf.layout.txt:       Sak:    Henvendelse - Norsk Narkotikapolitiforening
+./politi-innlandet-politidistrikt/postliste_siste_10_år/2021-07-14_092811 - IN - att 112-42067a7bcaa7f2a3be59a696e13c0272.pdf.layout.txt:       Dok:    Henvendelse - Norsk Narkotikapolitiforening
+./politi-innlandet-politidistrikt/postliste_siste_10_år/2021-07-14_092811 - IN - att 112-42067a7bcaa7f2a3be59a696e13c0272.pdf.layout.txt-               Saksansv: PM / PMH                            Saksbeh: PM / PMH
+./politi-innlandet-politidistrikt/postliste_siste_10_år/2021-07-14_092811 - IN - att 112-42067a7bcaa7f2a3be59a696e13c0272.pdf.layout.txt-
+./politi-innlandet-politidistrikt/postliste_siste_10_år/2021-07-14_092811 - IN - att 112-42067a7bcaa7f2a3be59a696e13c0272.pdf.layout.txt-2016/03211-1
+./politi-innlandet-politidistrikt/postliste_siste_10_år/2021-07-14_092811 - IN - att 112-42067a7bcaa7f2a3be59a696e13c0272.pdf.layout.txt-               Dok.dato: 09112016
+--
+./politi-innlandet-politidistrikt/postliste_siste_10_år/2021-07-14_091513 - IN - att 23-d8f22272b2c97a6f2a08a92f39239017.pdf.layout.txt-               Dok.dato: 09072017
+./politi-innlandet-politidistrikt/postliste_siste_10_år/2021-07-14_091513 - IN - att 23-d8f22272b2c97a6f2a08a92f39239017.pdf.layout.txt-               Jour.dato: 10072017
+./politi-innlandet-politidistrikt/postliste_siste_10_år/2021-07-14_091513 - IN - att 23-d8f22272b2c97a6f2a08a92f39239017.pdf.layout.txt-               Grad: U 0 Par.:
+./politi-innlandet-politidistrikt/postliste_siste_10_år/2021-07-14_091513 - IN - att 23-d8f22272b2c97a6f2a08a92f39239017.pdf.layout.txt-I      Fra:    Ola Selvik
+./politi-innlandet-politidistrikt/postliste_siste_10_år/2021-07-14_091513 - IN - att 23-d8f22272b2c97a6f2a08a92f39239017.pdf.layout.txt:       Sak:    Begjæring om innsyn - Norsk Narkotikapolitiforening - Øyvind Buraas sin epost - Ola
+./politi-innlandet-politidistrikt/postliste_siste_10_år/2021-07-14_091513 - IN - att 23-d8f22272b2c97a6f2a08a92f39239017.pdf.layout.txt-               Selvik
+./politi-innlandet-politidistrikt/postliste_siste_10_år/2021-07-14_091513 - IN - att 23-d8f22272b2c97a6f2a08a92f39239017.pdf.layout.txt:       Dok:    Begjæring om innsyn - Norsk Narkotikapolitiforening - Øyvind Buraas sin epost - Ola
+./politi-innlandet-politidistrikt/postliste_siste_10_år/2021-07-14_091513 - IN - att 23-d8f22272b2c97a6f2a08a92f39239017.pdf.layout.txt-               Selvik
+./politi-innlandet-politidistrikt/postliste_siste_10_år/2021-07-14_091513 - IN - att 23-d8f22272b2c97a6f2a08a92f39239017.pdf.layout.txt-               Saksansv: PM_VPM / PM-VPM                    Saksbeh: SKOM / KOM
+./politi-innlandet-politidistrikt/postliste_siste_10_år/2021-07-14_091513 - IN - att 23-d8f22272b2c97a6f2a08a92f39239017.pdf.layout.txt-
+./politi-innlandet-politidistrikt/postliste_siste_10_år/2021-07-14_091513 - IN - att 23-d8f22272b2c97a6f2a08a92f39239017.pdf.layout.txt-
+--
+./politi-innlandet-politidistrikt/postliste_siste_10_år/2021-07-14_090926 - IN - att 4-61e6c3a85f95023896040fe089e697a4.pdf.layout.txt-               Avsender             Politihøgskolen
+./politi-innlandet-politidistrikt/postliste_siste_10_år/2021-07-14_090926 - IN - att 4-61e6c3a85f95023896040fe089e697a4.pdf.layout.txt-
+./politi-innlandet-politidistrikt/postliste_siste_10_år/2021-07-14_090926 - IN - att 4-61e6c3a85f95023896040fe089e697a4.pdf.layout.txt-
+./politi-innlandet-politidistrikt/postliste_siste_10_år/2021-07-14_090926 - IN - att 4-61e6c3a85f95023896040fe089e697a4.pdf.layout.txt-
+./politi-innlandet-politidistrikt/postliste_siste_10_år/2021-07-14_090926 - IN - att 4-61e6c3a85f95023896040fe089e697a4.pdf.layout.txt:  20/28123-14 Retningslinjer for medlemmer av Norsk Narkotikapolitiforening - vedr. Konronavirus /Covid-19
+./politi-innlandet-politidistrikt/postliste_siste_10_år/2021-07-14_090926 - IN - att 4-61e6c3a85f95023896040fe089e697a4.pdf.layout.txt-              SakID/Tittel        20/28123 Corona-virus - Covid-19 - korona - pandemi
+./politi-innlandet-politidistrikt/postliste_siste_10_år/2021-07-14_090926 - IN - att 4-61e6c3a85f95023896040fe089e697a4.pdf.layout.txt-
+./politi-innlandet-politidistrikt/postliste_siste_10_år/2021-07-14_090926 - IN - att 4-61e6c3a85f95023896040fe089e697a4.pdf.layout.txt-               JournalpostID        20/109653             Dokumenttype             Inngående brev        Dokumentets dato 12.03.2020
+./politi-innlandet-politidistrikt/postliste_siste_10_år/2021-07-14_090926 - IN - att 4-61e6c3a85f95023896040fe089e697a4.pdf.layout.txt-               Skjerming jp                               Paragraf jp                                    Journaldato      12.03.2020
+./politi-innlandet-politidistrikt/postliste_siste_10_år/2021-07-14_090926 - IN - att 4-61e6c3a85f95023896040fe089e697a4.pdf.layout.txt:               Avsender             Norsk Narkotikapolitiforening
+./politi-innlandet-politidistrikt/postliste_siste_10_år/2021-07-14_090926 - IN - att 4-61e6c3a85f95023896040fe089e697a4.pdf.layout.txt-
+./politi-innlandet-politidistrikt/postliste_siste_10_år/2021-07-14_090926 - IN - att 4-61e6c3a85f95023896040fe089e697a4.pdf.layout.txt-
+./politi-innlandet-politidistrikt/postliste_siste_10_år/2021-07-14_090926 - IN - att 4-61e6c3a85f95023896040fe089e697a4.pdf.layout.txt-
+./politi-innlandet-politidistrikt/postliste_siste_10_år/2021-07-14_090926 - IN - att 4-61e6c3a85f95023896040fe089e697a4.pdf.layout.txt-  20/28123-13 Overordnet risikovurdering av oppgaver med risiko for koronasmitte
+--
+./politi-innlandet-politidistrikt/postliste_siste_10_år/2021-07-14_091513 - IN - att 26-8a4b1bf2bf146a318f76b4f855d6dc15.pdf.layout.txt-                Dok.dato: 02082017
+./politi-innlandet-politidistrikt/postliste_siste_10_år/2021-07-14_091513 - IN - att 26-8a4b1bf2bf146a318f76b4f855d6dc15.pdf.layout.txt-                Jour.dato: 02082017
+./politi-innlandet-politidistrikt/postliste_siste_10_år/2021-07-14_091513 - IN - att 26-8a4b1bf2bf146a318f76b4f855d6dc15.pdf.layout.txt-                Grad: U 0 Par.:
+./politi-innlandet-politidistrikt/postliste_siste_10_år/2021-07-14_091513 - IN - att 26-8a4b1bf2bf146a318f76b4f855d6dc15.pdf.layout.txt-U      Til:     Politidirektoratet
+./politi-innlandet-politidistrikt/postliste_siste_10_år/2021-07-14_091513 - IN - att 26-8a4b1bf2bf146a318f76b4f855d6dc15.pdf.layout.txt:       Sak:     Begjæring om innsyn - Norsk Narkotikapolitiforening - Øyvind Buraas sin epost - Ola
+./politi-innlandet-politidistrikt/postliste_siste_10_år/2021-07-14_091513 - IN - att 26-8a4b1bf2bf146a318f76b4f855d6dc15.pdf.layout.txt-                Selvik
+./politi-innlandet-politidistrikt/postliste_siste_10_år/2021-07-14_091513 - IN - att 26-8a4b1bf2bf146a318f76b4f855d6dc15.pdf.layout.txt-       Dok:     Klage på avslag på innsyn i Øyvind Buraas sin epost og krav om utvidet begrunnelse
+./politi-innlandet-politidistrikt/postliste_siste_10_år/2021-07-14_091513 - IN - att 26-8a4b1bf2bf146a318f76b4f855d6dc15.pdf.layout.txt-                Saksansv: PM_VPM / PM-VPM                     Saksbeh: HED / RP_HED
+./politi-innlandet-politidistrikt/postliste_siste_10_år/2021-07-14_091513 - IN - att 26-8a4b1bf2bf146a318f76b4f855d6dc15.pdf.layout.txt-
+--
+./politi-innlandet-politidistrikt/postliste_siste_10_år/2021-07-14_091513 - IN - att 26-8a4b1bf2bf146a318f76b4f855d6dc15.pdf.layout.txt-               Dok.dato: 02082017
+./politi-innlandet-politidistrikt/postliste_siste_10_år/2021-07-14_091513 - IN - att 26-8a4b1bf2bf146a318f76b4f855d6dc15.pdf.layout.txt-               Jour.dato: 03082017
+./politi-innlandet-politidistrikt/postliste_siste_10_år/2021-07-14_091513 - IN - att 26-8a4b1bf2bf146a318f76b4f855d6dc15.pdf.layout.txt-               Grad: U 0 Par.:
+./politi-innlandet-politidistrikt/postliste_siste_10_år/2021-07-14_091513 - IN - att 26-8a4b1bf2bf146a318f76b4f855d6dc15.pdf.layout.txt-I      Fra:    Ola Selvik
+./politi-innlandet-politidistrikt/postliste_siste_10_år/2021-07-14_091513 - IN - att 26-8a4b1bf2bf146a318f76b4f855d6dc15.pdf.layout.txt:       Sak:    Begjæring om innsyn - Norsk Narkotikapolitiforening - Øyvind Buraas sin epost - Ola
+./politi-innlandet-politidistrikt/postliste_siste_10_år/2021-07-14_091513 - IN - att 26-8a4b1bf2bf146a318f76b4f855d6dc15.pdf.layout.txt-               Selvik
+./politi-innlandet-politidistrikt/postliste_siste_10_år/2021-07-14_091513 - IN - att 26-8a4b1bf2bf146a318f76b4f855d6dc15.pdf.layout.txt-       Dok:    Vedrørende innsynsbegjæring
+./politi-innlandet-politidistrikt/postliste_siste_10_år/2021-07-14_091513 - IN - att 26-8a4b1bf2bf146a318f76b4f855d6dc15.pdf.layout.txt-               Saksansv: PM_VPM / PM-VPM                       Saksbeh: HED / RP_HED
+./politi-innlandet-politidistrikt/postliste_siste_10_år/2021-07-14_091513 - IN - att 26-8a4b1bf2bf146a318f76b4f855d6dc15.pdf.layout.txt-
+--
+./politi-innlandet-politidistrikt/postliste_siste_10_år/2021-07-14_091513 - IN - att 26-8a4b1bf2bf146a318f76b4f855d6dc15.pdf.layout.txt-               Dok.dato: 02082017
+./politi-innlandet-politidistrikt/postliste_siste_10_år/2021-07-14_091513 - IN - att 26-8a4b1bf2bf146a318f76b4f855d6dc15.pdf.layout.txt-               Jour.dato: 02082017
+./politi-innlandet-politidistrikt/postliste_siste_10_år/2021-07-14_091513 - IN - att 26-8a4b1bf2bf146a318f76b4f855d6dc15.pdf.layout.txt-               Grad: U 0 Par.:
+./politi-innlandet-politidistrikt/postliste_siste_10_år/2021-07-14_091513 - IN - att 26-8a4b1bf2bf146a318f76b4f855d6dc15.pdf.layout.txt-U      Til:    Birgit Feltvik
+./politi-innlandet-politidistrikt/postliste_siste_10_år/2021-07-14_091513 - IN - att 26-8a4b1bf2bf146a318f76b4f855d6dc15.pdf.layout.txt:       Sak:    Begjæring om innsyn - Norsk Narkotikapolitiforening - Øyvind Buraas sin epost -
+./politi-innlandet-politidistrikt/postliste_siste_10_år/2021-07-14_091513 - IN - att 26-8a4b1bf2bf146a318f76b4f855d6dc15.pdf.layout.txt-               Birgit Feltvik
+./politi-innlandet-politidistrikt/postliste_siste_10_år/2021-07-14_091513 - IN - att 26-8a4b1bf2bf146a318f76b4f855d6dc15.pdf.layout.txt:       Dok:    Avslag på begjæring om innsyn - Norsk Narkotikapolitiforening - Øyvind Buraas sin
+./politi-innlandet-politidistrikt/postliste_siste_10_år/2021-07-14_091513 - IN - att 26-8a4b1bf2bf146a318f76b4f855d6dc15.pdf.layout.txt-               epost - Birgit Feltvik
+./politi-innlandet-politidistrikt/postliste_siste_10_år/2021-07-14_091513 - IN - att 26-8a4b1bf2bf146a318f76b4f855d6dc15.pdf.layout.txt-               Saksansv: PM_VPM / PM-VPM                     Saksbeh: HED / RP_HED
+./politi-innlandet-politidistrikt/postliste_siste_10_år/2021-07-14_091513 - IN - att 26-8a4b1bf2bf146a318f76b4f855d6dc15.pdf.layout.txt-
+./politi-innlandet-politidistrikt/postliste_siste_10_år/2021-07-14_091513 - IN - att 26-8a4b1bf2bf146a318f76b4f855d6dc15.pdf.layout.txt-2017/04295-1
+--
+./politi-innlandet-politidistrikt/postliste_siste_10_år/2021-07-14_090715 - IN - att 5-02d097c320382f128dcb0c62aac558e1.pdf.layout.txt-                  Avsender                    Kripos
+./politi-innlandet-politidistrikt/postliste_siste_10_år/2021-07-14_090715 - IN - att 5-02d097c320382f128dcb0c62aac558e1.pdf.layout.txt-
+./politi-innlandet-politidistrikt/postliste_siste_10_år/2021-07-14_090715 - IN - att 5-02d097c320382f128dcb0c62aac558e1.pdf.layout.txt-
+./politi-innlandet-politidistrikt/postliste_siste_10_år/2021-07-14_090715 - IN - att 5-02d097c320382f128dcb0c62aac558e1.pdf.layout.txt-
+./politi-innlandet-politidistrikt/postliste_siste_10_år/2021-07-14_090715 - IN - att 5-02d097c320382f128dcb0c62aac558e1.pdf.layout.txt:  21/48824-46 Svar på innsynsbegjæring - Norsk Narkotikapolitiforening
+./politi-innlandet-politidistrikt/postliste_siste_10_år/2021-07-14_090715 - IN - att 5-02d097c320382f128dcb0c62aac558e1.pdf.layout.txt-              SakID/Tittel       21/48824 Innsynsbegjæring - alle utbetalinger
+./politi-innlandet-politidistrikt/postliste_siste_10_år/2021-07-14_090715 - IN - att 5-02d097c320382f128dcb0c62aac558e1.pdf.layout.txt-
+./politi-innlandet-politidistrikt/postliste_siste_10_år/2021-07-14_090715 - IN - att 5-02d097c320382f128dcb0c62aac558e1.pdf.layout.txt-                  JournalpostID               21/196173               Dokumenttype   Inngående brev      Dokumentets dato 28.04.2021
+./politi-innlandet-politidistrikt/postliste_siste_10_år/2021-07-14_090715 - IN - att 5-02d097c320382f128dcb0c62aac558e1.pdf.layout.txt-                  Skjerming jp                                        Paragraf jp                        Journaldato      28.04.2021
