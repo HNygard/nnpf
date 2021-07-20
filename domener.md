@@ -169,3 +169,15 @@ stats.nnpf.no
 		webmail.vvsbomlo.no
 
 webmail.nnpf.no => redirect til roundcube webmail-klient (rcube.uniweb.no)
+
+
+
+
+------
+
+Epostadresser:
+
+lokallag@nnpf.no (kommentar under facebook-post, 2011-10-05)
+kurs@nnpf.no
+shop@nnpf.no
+brydeg@brydeg.no
