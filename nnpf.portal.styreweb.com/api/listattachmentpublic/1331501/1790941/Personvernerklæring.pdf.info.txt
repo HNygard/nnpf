@@ -1,0 +1,20 @@
+Title:          Personvernerklæring
+Subject:        
+Keywords:       
+Author:         Sigmund Øvland
+Creator:        Word
+Producer:       Mac OS X 10.13.6 Quartz PDFContext
+CreationDate:   Tue Feb 12 13:19:50 2019 CET
+ModDate:        Tue Feb 12 13:19:50 2019 CET
+Tagged:         no
+UserProperties: no
+Suspects:       no
+Form:           none
+JavaScript:     no
+Pages:          2
+Encrypted:      no
+Page size:      595.29 x 841.89 pts (A4)
+Page rot:       0
+File size:      70992 bytes
+Optimized:      no
+PDF version:    1.3

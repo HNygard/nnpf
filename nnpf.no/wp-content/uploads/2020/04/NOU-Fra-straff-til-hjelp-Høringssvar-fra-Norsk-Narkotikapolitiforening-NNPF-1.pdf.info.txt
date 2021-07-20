@@ -1,0 +1,17 @@
+Author:         Jan Erik Bresil
+Creator:        Acrobat PDFMaker 20 for Word
+Producer:       Adobe PDF Library 20.6.74
+CreationDate:   Fri Apr  3 20:10:49 2020 CEST
+ModDate:        Fri Apr  3 20:10:52 2020 CEST
+Tagged:         yes
+UserProperties: no
+Suspects:       no
+Form:           none
+JavaScript:     no
+Pages:          17
+Encrypted:      no
+Page size:      595.32 x 841.92 pts (A4)
+Page rot:       0
+File size:      388859 bytes
+Optimized:      yes
+PDF version:    1.6

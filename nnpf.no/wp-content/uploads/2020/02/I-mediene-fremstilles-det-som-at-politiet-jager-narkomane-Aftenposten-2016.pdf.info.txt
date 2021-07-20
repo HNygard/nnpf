@@ -1,0 +1,16 @@
+Creator:        Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/49.0.2623.112 Safari/537.36
+Producer:       Skia/PDF
+CreationDate:   Sat Apr 23 22:22:46 2016 CEST
+ModDate:        Sat Apr 23 22:22:46 2016 CEST
+Tagged:         no
+UserProperties: no
+Suspects:       no
+Form:           none
+JavaScript:     no
+Pages:          4
+Encrypted:      no
+Page size:      596 x 843 pts (A4)
+Page rot:       0
+File size:      231239 bytes
+Optimized:      no
+PDF version:    1.4
